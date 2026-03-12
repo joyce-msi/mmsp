@@ -168,64 +168,64 @@
     "sprint": 1
   },
   {
+    "key": "MMSPTVM-31",
+    "summary": "SVC Module",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
     "key": "MMSPTVM-71",
     "summary": "Recycler reload / AR reset",
-    "start": "2026-03-13",
-    "end": "2026-03-20",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2
   },
   {
     "key": "MMSPTVM-72",
     "summary": "Change note box",
-    "start": "2026-03-13",
-    "end": "2026-03-20",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2
   },
   {
     "key": "MMSPTVM-79",
     "summary": "CHS Hardware status",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2
   },
   {
     "key": "MMSPTVM-80",
     "summary": "Coin acceptance test",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2
   },
   {
     "key": "MMSPTVM-81",
     "summary": "Replenish change hoppers",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2
   },
   {
     "key": "MMSPTVM-82",
     "summary": "Dump change hoppers",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2
   },
   {
     "key": "MMSPTVM-83",
     "summary": "Replenish recycle hoppers",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-31",
-    "summary": "SVC Module",
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
