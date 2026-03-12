@@ -46,8 +46,8 @@ export default defineConfig({
 
           function mapStatus(s: string) {
             const l = s.toLowerCase();
-            if (l === "done" || l === "closed" || l === "resolved") return "Done";
-            if (l === "in progress" || l === "in review" || l === "in development") return "In Progress";
+            if (l === "done" || l === "closed" || l === "resolved" || l === "ready for release" || l === "in review") return "Done";
+            if (l === "in progress" || l === "in development") return "In Progress";
             return "To Do";
           }
 

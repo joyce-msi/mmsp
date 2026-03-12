@@ -4,7 +4,7 @@
     "summary": "[UI] Boot-up",
     "start": "2026-02-09",
     "end": "2026-02-23",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -12,7 +12,7 @@
     "summary": "Reader shared library with C interface",
     "start": "2026-02-09",
     "end": "2026-03-09",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -20,7 +20,7 @@
     "summary": "[SJT] Common(reader) shared libary with C interface",
     "start": "2026-02-09",
     "end": "2026-03-09",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -28,7 +28,7 @@
     "summary": "[UI] Gate Mode",
     "start": "2026-03-02",
     "end": "2026-03-09",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -36,7 +36,7 @@
     "summary": "[UI] Login",
     "start": "2026-03-02",
     "end": "2026-03-09",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -44,7 +44,7 @@
     "summary": "[UI] Device info",
     "start": "2026-03-11",
     "end": "2026-02-23",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -52,7 +52,7 @@
     "summary": "[UI] Loading Screen",
     "start": "2026-03-11",
     "end": "2026-02-23",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -60,7 +60,7 @@
     "summary": "[UI] Inquiry Details (Tabs: Personal Info to Validation)",
     "start": "2026-03-11",
     "end": "2026-02-23",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -68,7 +68,7 @@
     "summary": "[UI] SVC Sales (Main to Sale Issuance Completion)",
     "start": "2026-03-11",
     "end": "2026-02-23",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -76,7 +76,7 @@
     "summary": "[UI] SJT/QR ticket (Main to Purchase Completion)",
     "start": "2026-03-11",
     "end": "2026-02-23",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -84,7 +84,7 @@
     "summary": "[UI] Maintenance Menu",
     "start": "2026-03-11",
     "end": "2026-02-23",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -92,7 +92,7 @@
     "summary": "[UI] Parameter Management Status",
     "start": "2026-03-11",
     "end": "2026-02-23",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -100,7 +100,7 @@
     "summary": "[UI] Out of Service",
     "start": "2026-03-11",
     "end": "2026-03-23",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -108,7 +108,7 @@
     "summary": "[UI] Closed Mode",
     "start": "2026-03-11",
     "end": "2026-03-23",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -116,7 +116,7 @@
     "summary": "[UI] Mode Selection",
     "start": "2026-03-11",
     "end": "2026-03-09",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -124,7 +124,7 @@
     "summary": "[SJT] Reader & Common shared library integration",
     "start": "2026-03-11",
     "end": "2026-03-09",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1
   },
   {
