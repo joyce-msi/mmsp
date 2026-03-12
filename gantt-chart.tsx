@@ -55,7 +55,7 @@ const dataCache: Record<string, Task[]> = {};
 async function loadProjectData(projectKey: string): Promise<Task[]> {
   if (dataCache[projectKey]) return dataCache[projectKey];
   try {
-    const res = await fetch(`/data/${projectKey}.json`);
+    const res = await fetch(`${import.meta.env.BASE_URL}data/${projectKey}.json`);
     if (!res.ok) return [];
     const data = await res.json();
     dataCache[projectKey] = data;
@@ -444,7 +444,7 @@ async function exportAllToExcel() {
       tasks = dataCache[project.key];
     } else {
       try {
-        const res = await fetch(`/data/${project.key}.json`);
+        const res = await fetch(`${import.meta.env.BASE_URL}data/${project.key}.json`);
         if (!res.ok) continue;
         tasks = await res.json();
       } catch { continue; }
@@ -652,7 +652,7 @@ async function exportAllToExcel() {
   }
   let sRow = 2;
   for (const project of projects) {
-    const dataPath = `/data/${project.key}.json`;
+    const dataPath = `${import.meta.env.BASE_URL}data/${project.key}.json`;
     let tasks: Task[];
     if (dataCache[project.key]) {
       tasks = dataCache[project.key];
