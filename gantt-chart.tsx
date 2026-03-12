@@ -412,12 +412,13 @@ async function exportAllToExcel() {
   const chartEnd = new Date("2026-05-29");
   const totalDays = Math.round((chartEnd.getTime() - chartStart.getTime()) / 86400000) + 1;
 
-  // Generate all dates
+  // Generate all dates (weekdays only)
   const allDates: Date[] = [];
   for (let i = 0; i < totalDays; i++) {
     const d = new Date(chartStart);
     d.setDate(d.getDate() + i);
-    allDates.push(d);
+    const dow = d.getDay();
+    if (dow !== 0 && dow !== 6) allDates.push(d); // skip Sat & Sun
   }
 
   const INFO_COLS = 5; // Key, Summary, Status, Start, End
@@ -530,9 +531,8 @@ async function exportAllToExcel() {
       const cell = dayNameRow.getCell(INFO_COLS + 1 + i);
       const dow = allDates[i].getDay();
       cell.value = dayNames[dow].charAt(0);
-      const isWeekend = dow === 0 || dow === 6;
-      cell.font = { size: 7, color: { argb: isWeekend ? "FFef4444" : "FFcbd5e1" } };
-      cell.fill = { type: "pattern", pattern: "solid", fgColor: { argb: isWeekend ? "FF1a1a2e" : "FF334155" } };
+      cell.font = { size: 7, color: { argb: "FFcbd5e1" } };
+      cell.fill = { type: "pattern", pattern: "solid", fgColor: { argb: "FF334155" } };
       cell.alignment = { horizontal: "center", vertical: "middle" };
       cell.border = cellBorder;
     }
@@ -615,13 +615,10 @@ async function exportAllToExcel() {
         for (let i = 0; i < allDates.length; i++) {
           const cell = row.getCell(INFO_COLS + 1 + i);
           const d = allDates[i];
-          const isWeekend = d.getDay() === 0 || d.getDay() === 6;
           const inRange = d >= taskStart && d < taskEnd;
 
           if (inRange) {
             cell.fill = { type: "pattern", pattern: "solid", fgColor: { argb: barColors[task.status] || "FF94a3b8" } };
-          } else if (isWeekend) {
-            cell.fill = { type: "pattern", pattern: "solid", fgColor: { argb: "FFf8fafc" } };
           }
           cell.border = { left: { style: "hair", color: { argb: "FFe2e8f0" } }, right: { style: "hair", color: { argb: "FFe2e8f0" } }, top: thinBorder, bottom: thinBorder };
         }
