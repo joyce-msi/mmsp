@@ -1,0 +1,322 @@
+[
+  {
+    "key": "MN-27",
+    "summary": "Developer - local setup - AMQ , Postgresql , Keycloak",
+    "start": "2026-03-11",
+    "end": "2026-03-17",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MN-24",
+    "summary": "Code Port from Old Gitea to New Gitea",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MN-25",
+    "summary": "Access Rights in New Gitea - Team Members",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MN-26",
+    "summary": "CICD Pipeline for microservices",
+    "start": "2026-03-11",
+    "end": "2026-03-17",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MN-22",
+    "summary": "Parameter spec",
+    "start": "2026-03-11",
+    "end": "2026-03-17",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MN-23",
+    "summary": "Transaction spec",
+    "start": "2026-03-11",
+    "end": "2026-03-17",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MN-56",
+    "summary": "Merge latest code to New Gitea",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MN-59",
+    "summary": "KT from Keshav - Main Portal , TABA Portal",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MN-1",
+    "summary": "CCS-Parameters (DCD , Global)",
+    "start": "2026-03-13",
+    "end": "2026-03-20",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MN-3",
+    "summary": "CCS-Transactions (SJT)",
+    "start": "2026-03-13",
+    "end": "2026-03-20",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MN-42",
+    "summary": "DB Table Clean - Parameter Tables",
+    "start": "2026-03-13",
+    "end": "2026-03-20",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MN-43",
+    "summary": "Parameter - ERD",
+    "start": "2026-03-13",
+    "end": "2026-03-20",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MN-5",
+    "summary": "CCS-PORTAL (Parameter Mgmt)",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MN-46",
+    "summary": "CCS - Approve  , ReDistribute Parameters",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MN-47",
+    "summary": "CCS - Parameter Distribution History - sent , Recieved",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MN-15",
+    "summary": "CCS - Portal - Transaction Mgmt",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MN-17",
+    "summary": "CCS -  Report Spec",
+    "start": "2026-03-20",
+    "end": "2026-03-27",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MN-35",
+    "summary": "Design Enhancement PDMS - sent PDT to Stations (not to ECS)",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MN-20",
+    "summary": "CCS Final Design Doc",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MN-31",
+    "summary": "Code merge from RTS - Upgrade JDK 21 , Spring Boot 3 , Hazelcast",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MN-50",
+    "summary": "Design Workshop slides from RTS - for MMSP Reference",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MN-2",
+    "summary": "CCS-Transactions (Beep card)",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MN-53",
+    "summary": "API Gateway",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MN-11",
+    "summary": "CCS-Transactions (QR)",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "In Progress",
+    "sprint": 2
+  },
+  {
+    "key": "MN-18",
+    "summary": "CCS - Reports - CBT, SJT",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MN-32",
+    "summary": "Code merge from RTS - Exceptional scenarios - AMQ Down , DB Down",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MN-33",
+    "summary": "Code merge from RTS - Non Functional Performance",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MN-34",
+    "summary": "Code Merge from RTS - SSDLC - VAPT Fixes",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MN-44",
+    "summary": "DB Table clean - Transactions",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MN-45",
+    "summary": "Transaction Tables - ERD",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MN-51",
+    "summary": "QR Design Workshop Slides",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MN-6",
+    "summary": "CCS-PORTAL (Main portal) - User Management",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "In Progress",
+    "sprint": 2
+  },
+  {
+    "key": "MN-8",
+    "summary": "TG-PORTAL - Parameters",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MN-10",
+    "summary": "TGS - Ticket Generator  - Online ",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MN-7",
+    "summary": "QRS - QR Validator - Online",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MN-4",
+    "summary": "CCS-TXNP (End Shift, AR,Events) ",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "In Progress",
+    "sprint": 3
+  },
+  {
+    "key": "MN-9",
+    "summary": "QR-PORTAL - Transactions ",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MN-19",
+    "summary": "Reports - QR , Recon",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MN-38",
+    "summary": "code merge from RTS - Exceptional scenarios - Cannot generate QR",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MN-48",
+    "summary": "QR Exit , Under Fare Upgrade , Entry Exit Mismatch",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  }
+]

@@ -1,0 +1,714 @@
+[
+  {
+    "key": "MMSPPOS-1",
+    "summary": "Remove EZ-Link support",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-2",
+    "summary": "Remove NFP support",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-3",
+    "summary": "Remove Cepas support",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-4",
+    "summary": "Remove TNG support",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-13",
+    "summary": "Components Integration - CSCRW components",
+    "start": "2026-03-13",
+    "end": "2026-03-17",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-5",
+    "summary": "Components Integration - PAR",
+    "start": "2026-03-13",
+    "end": "2026-03-17",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-6",
+    "summary": "Components Integration - MSD",
+    "start": "2026-03-13",
+    "end": "2026-03-17",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-12",
+    "summary": "Components Integration - FCM",
+    "start": "2026-03-13",
+    "end": "2026-03-17",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-11",
+    "summary": "Components Integration - BRCommon",
+    "start": "2026-03-13",
+    "end": "2026-03-17",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-9",
+    "summary": "Components Integration - BRSJT",
+    "start": "2026-03-13",
+    "end": "2026-03-17",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-34",
+    "summary": "Testing and debugging support - SJT Card XML",
+    "start": "2026-03-17",
+    "end": "2026-03-20",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-15",
+    "summary": "Hardware Support - Receipt Printer",
+    "start": "2026-03-17",
+    "end": "2026-03-20",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-16",
+    "summary": "Hardware Support - PDU",
+    "start": "2026-03-17",
+    "end": "2026-03-20",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-20",
+    "summary": "UI design - Main Screen",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-21",
+    "summary": "UI design - Application loading",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-26",
+    "summary": "UI design - Home Screen",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-23",
+    "summary": "UI design - Login",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-24",
+    "summary": "UI design - Logout",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-25",
+    "summary": "UI design - Lock/Unlock",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-27",
+    "summary": "UI design - Message Notifications",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-91",
+    "summary": "UI design - PDU General Look and Feel",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-56",
+    "summary": "SJT Analysis UI Design",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-58",
+    "summary": "SJT Analysis PDU Display",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-57",
+    "summary": "SJT Analysis Processing, transaction generation, AR update",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-59",
+    "summary": "SJT Sale UI Design",
+    "start": "2026-03-24",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-60",
+    "summary": "SJT Sale Processing, transaction generation, inventory update, AR update",
+    "start": "2026-03-24",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-61",
+    "summary": "SJT Sale Receipt",
+    "start": "2026-03-24",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-62",
+    "summary": "SJT Sale PDU Display",
+    "start": "2026-03-24",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-63",
+    "summary": "SJT Upgrade UI Design",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-64",
+    "summary": "SJT Upgrade Processing, transaction generation, inventory update, AR update",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-65",
+    "summary": "SJT Upgrade Receipt",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-66",
+    "summary": "SJT Upgrade PDU Display",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPPOS-10",
+    "summary": "Components Integration - BRSVC",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-18",
+    "summary": "Hardware Support - CSCRW",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-17",
+    "summary": "Hardware Support - Cash Drawer",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-22",
+    "summary": "UI design - Device Status Display",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-33",
+    "summary": "Testing and debugging support - SVC Card XML",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-36",
+    "summary": "SVC Analysis UI Design",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-37",
+    "summary": "SVC Analysis Processing, transaction generation, AR update",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-38",
+    "summary": "SVC Analysis Receipt",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-39",
+    "summary": "SVC Analysis PDU Display",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-40",
+    "summary": "SVC Sale UI Design",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-41",
+    "summary": "SVC Sale Processing, transaction generation, inventory update, AR update",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-42",
+    "summary": "SVC Sale Receipt",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-43",
+    "summary": "SVC Sale PDU Display",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-44",
+    "summary": "SVC Add Value UI Design",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-45",
+    "summary": "SVC Add Value Processing, transaction generation, inventory update, AR update",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-46",
+    "summary": "SVC Add Value Receipt",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-47",
+    "summary": "SVC Add Value PDU Display",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-48",
+    "summary": "SVC Upgrade UI Design",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-50",
+    "summary": "SVC Upgrade Receipt",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-51",
+    "summary": "SVC Upgrade PDU Display",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-52",
+    "summary": "SVC Add Product UI Design",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-49",
+    "summary": "SVC Upgrade Processing, transaction generation, inventory update, AR update",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-53",
+    "summary": "SVC Add Product Processing, transaction generation, inventory update, AR update",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-54",
+    "summary": "SVC Add Product Receipt",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-55",
+    "summary": "SVC Add Product PDU Display",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-28",
+    "summary": "Background processing - Status monitoring",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-29",
+    "summary": "Background processing - Device status update (UI)",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-30",
+    "summary": "Background processing - Parameter download",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-31",
+    "summary": "Background processing - Transaction upload",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-32",
+    "summary": "Background processing - Commands Processing",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPPOS-8",
+    "summary": "Components Integration - BRQR",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-14",
+    "summary": "Hardware Support - QR Reader",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-35",
+    "summary": "Testing and debugging support - QR Ticket XML",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-67",
+    "summary": "QR Ticket Analysis UI Design",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-68",
+    "summary": "QR Ticket Analysis Processing, transaction generation, AR update",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-69",
+    "summary": "QR Ticket Analysis PDU Display",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-70",
+    "summary": "QR Ticket Sale UI Design",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-71",
+    "summary": "QR Ticket Sale Processing, transaction generation, AR update",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-72",
+    "summary": "QR Ticket Sale Receipt",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-73",
+    "summary": "QR Ticket Sale PDU Display",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-74",
+    "summary": "QR Ticket Upgrade UI Design",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-75",
+    "summary": "QR Ticket Upgrade Processing, transaction generation, AR update",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-76",
+    "summary": "QR Ticket Upgrade Receipt",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-77",
+    "summary": "QR Ticket UpgradePDU Display",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-78",
+    "summary": "Maintenance UI Design",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-79",
+    "summary": "Maintenance Configuration Info Display",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-80",
+    "summary": "Maintenance Parameters Information",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-81",
+    "summary": "Maintenance CSCRW Test",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-82",
+    "summary": "Maintenance PDU Test",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-83",
+    "summary": "Maintenance Receipt Printer Test",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-84",
+    "summary": "Maintenance QR Scanner Test",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-85",
+    "summary": "Maintenance SVC XML Save to File",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-86",
+    "summary": "Maintenance SJT XML Save to File",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-87",
+    "summary": "Maintenance File Export (transactions, parameters, logs)",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-88",
+    "summary": "Maintenance Force upload AR",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-89",
+    "summary": "Maintenance Access to OS",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPPOS-90",
+    "summary": "Maintenance Shutdown",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  }
+]

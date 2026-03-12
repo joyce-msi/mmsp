@@ -1,0 +1,210 @@
+[
+  {
+    "key": "MMSPHHT-4",
+    "summary": "[UI] Boot-up",
+    "start": "2026-02-09",
+    "end": "2026-02-23",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-1",
+    "summary": "Reader shared library with C interface",
+    "start": "2026-02-09",
+    "end": "2026-03-09",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-3",
+    "summary": "[SJT] Common(reader) shared libary with C interface",
+    "start": "2026-02-09",
+    "end": "2026-03-09",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-16",
+    "summary": "[UI] Gate Mode",
+    "start": "2026-03-02",
+    "end": "2026-03-09",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-12",
+    "summary": "[UI] Login",
+    "start": "2026-03-02",
+    "end": "2026-03-09",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-5",
+    "summary": "[UI] Device info",
+    "start": "2026-03-11",
+    "end": "2026-02-23",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-6",
+    "summary": "[UI] Loading Screen",
+    "start": "2026-03-11",
+    "end": "2026-02-23",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-7",
+    "summary": "[UI] Inquiry Details (Tabs: Personal Info to Validation)",
+    "start": "2026-03-11",
+    "end": "2026-02-23",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-8",
+    "summary": "[UI] SVC Sales (Main to Sale Issuance Completion)",
+    "start": "2026-03-11",
+    "end": "2026-02-23",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-9",
+    "summary": "[UI] SJT/QR ticket (Main to Purchase Completion)",
+    "start": "2026-03-11",
+    "end": "2026-02-23",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-10",
+    "summary": "[UI] Maintenance Menu",
+    "start": "2026-03-11",
+    "end": "2026-02-23",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-11",
+    "summary": "[UI] Parameter Management Status",
+    "start": "2026-03-11",
+    "end": "2026-02-23",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-13",
+    "summary": "[UI] Out of Service",
+    "start": "2026-03-11",
+    "end": "2026-03-23",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-14",
+    "summary": "[UI] Closed Mode",
+    "start": "2026-03-11",
+    "end": "2026-03-23",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-15",
+    "summary": "[UI] Mode Selection",
+    "start": "2026-03-11",
+    "end": "2026-03-09",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-26",
+    "summary": "[SJT] Reader & Common shared library integration",
+    "start": "2026-03-11",
+    "end": "2026-03-09",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-25",
+    "summary": "[SJT] Ultralight C R/W development",
+    "start": "2026-03-11",
+    "end": "2026-03-23",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-31",
+    "summary": "[Pending SDK] Hardware Management",
+    "start": "2026-03-11",
+    "end": "2026-03-23",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-32",
+    "summary": "[DEMO] Read Simulated SJT and display card info",
+    "start": "2026-03-11",
+    "end": "2026-03-23",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-17",
+    "summary": "[UI] SVC Upgrade",
+    "start": "2026-03-11",
+    "end": "2026-04-06",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-24",
+    "summary": "[UI, Status] System Monitor",
+    "start": "2026-03-11",
+    "end": "2026-03-23",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-22",
+    "summary": "Transaction Management",
+    "start": "2026-03-11",
+    "end": "2026-03-23",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPHHT-34",
+    "summary": "Component(DeviceMgmt) Lib Integration",
+    "start": "2026-04-01",
+    "end": "2026-02-23",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPHHT-23",
+    "summary": "[Pending Component(DeviceMgmt) Lib] Parameter Management",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPHHT-28",
+    "summary": "[Pending Component(DeviceMgmt) Lib] Events",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPHHT-27",
+    "summary": "[Pending Component(DeviceMgmt) Lib] Audit Register Management",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  }
+]

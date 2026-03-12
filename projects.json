@@ -1,0 +1,8 @@
+[
+  { "key": "MMSPAG",   "name": "MMSP AG",     "color": "#6366f1" },
+  { "key": "MMSPSC",   "name": "MMSP SC",     "color": "#0ea5e9" },
+  { "key": "MN",       "name": "MMSP-NS01",   "color": "#10b981" },
+  { "key": "MMSPPOS",  "name": "MMSP POS",    "color": "#f59e0b" },
+  { "key": "MMSPHHT",  "name": "MMSP HHT",    "color": "#ef4444" },
+  { "key": "MMSPTVM",  "name": "MMSP TVM",    "color": "#a855f7" }
+]

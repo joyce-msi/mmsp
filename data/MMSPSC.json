@@ -1,0 +1,186 @@
+[
+  {
+    "key": "MMSPSC-5",
+    "summary": "Replace RTS references with MMSP/NS01",
+    "start": "2026-03-11",
+    "end": "2026-03-17",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPSC-6",
+    "summary": "Remove obsolete features",
+    "start": "2026-03-11",
+    "end": "2026-03-17",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPSC-1",
+    "summary": "Setup Repositories-SC, MCS, MCS Portal",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPSC-4",
+    "summary": "Import RTS SC repo as base",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPSC-11",
+    "summary": "SJT Transactions",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPSC-7",
+    "summary": "PRMS Microservice",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPSC-8",
+    "summary": "FDL Microservice",
+    "start": "2026-03-20",
+    "end": "2026-03-27",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPSC-15",
+    "summary": "Status Monitoring",
+    "start": "2026-03-24",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPSC-21",
+    "summary": "Login/Logout",
+    "start": "2026-03-24",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPSC-22",
+    "summary": "Station Layout",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPSC-10",
+    "summary": "SVC Transactions",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPSC-12",
+    "summary": "AR Transactions",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPSC-16",
+    "summary": "Events Management",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPSC-18",
+    "summary": "Commands Handling",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPSC-9",
+    "summary": "QR Transactions",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPSC-19",
+    "summary": "Reports Feature",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPSC-24",
+    "summary": "Summary Status",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPSC-23",
+    "summary": "Send Command",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPSC-26",
+    "summary": "Device Events",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPSC-27",
+    "summary": "Transaction History",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPSC-28",
+    "summary": "Traffic Info",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPSC-25",
+    "summary": "Parameter Overview",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPSC-29",
+    "summary": "Parameter Content",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  }
+]

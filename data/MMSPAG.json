@@ -1,0 +1,306 @@
+[
+  {
+    "key": "MMSPAG-3",
+    "summary": "Remove obsolete features",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-2",
+    "summary": "Replace RTS references with MMSP/NS01",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-65",
+    "summary": "Migrate QNX Image from 8 GB to 16 GB CFast",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-5",
+    "summary": "Implement PLC hardware control",
+    "start": "2026-03-13",
+    "end": "2026-03-17",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-52",
+    "summary": "Configure AG hardware settings",
+    "start": "2026-03-13",
+    "end": "2026-03-17",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-54",
+    "summary": "Configure serial ports",
+    "start": "2026-03-13",
+    "end": "2026-03-17",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-7",
+    "summary": "Implement Audio hardware control",
+    "start": "2026-03-17",
+    "end": "2026-03-20",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-6",
+    "summary": "Implement Card Transport hardware control",
+    "start": "2026-03-17",
+    "end": "2026-03-20",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-8",
+    "summary": "Implement UPS hardware control",
+    "start": "2026-03-17",
+    "end": "2026-03-20",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-4",
+    "summary": "Integrate new components into application",
+    "start": "2026-03-20",
+    "end": "2026-03-24",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-13",
+    "summary": "Implement Transactions handling module",
+    "start": "2026-03-20",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-9",
+    "summary": "Implement CSC Reader without SAM Manager",
+    "start": "2026-03-20",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-16",
+    "summary": "Implement SJT ticket validation",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-18",
+    "summary": "Implement In-Service operating mode",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-19",
+    "summary": "Configure Gate Direction options",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-20",
+    "summary": "Configure Aisle Modes",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-27",
+    "summary": "Implement Parameter Management system",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-61",
+    "summary": "AG UI - Operating Modes",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-62",
+    "summary": "AG UI - Usage screens",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-63",
+    "summary": "AG UI - Maintenance Screens",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-64",
+    "summary": "AG UI - String Translations",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-42",
+    "summary": "Design and implement Usage screens",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-15",
+    "summary": "Implement CSC ticket validation",
+    "start": "2026-04-01",
+    "end": "2026-04-08",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-23",
+    "summary": "Implement Out-Of-Service mode",
+    "start": "2026-04-01",
+    "end": "2026-04-08",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-24",
+    "summary": "Implement Maintenance mode",
+    "start": "2026-04-01",
+    "end": "2026-04-15",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-25",
+    "summary": "Implement Closed mode",
+    "start": "2026-04-01",
+    "end": "2026-04-15",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-26",
+    "summary": "Implement Emergency mode",
+    "start": "2026-04-01",
+    "end": "2026-04-22",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-29",
+    "summary": "Implement Set Service State command",
+    "start": "2026-04-01",
+    "end": "2026-04-22",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-30",
+    "summary": "Implement Set Direction command",
+    "start": "2026-04-01",
+    "end": "2026-04-22",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-31",
+    "summary": "Implement Set Aisle Mode command",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-10",
+    "summary": "Implement QR Reader Interface",
+    "start": "2026-05-01",
+    "end": "2026-05-08",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPAG-17",
+    "summary": "Implement QR ticket validation",
+    "start": "2026-05-01",
+    "end": "2026-05-08",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPAG-38",
+    "summary": "Implement Maintenance Menu Status",
+    "start": "2026-05-01",
+    "end": "2026-05-15",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPAG-39",
+    "summary": "Implement Maintenance Menu Diagnostics",
+    "start": "2026-05-01",
+    "end": "2026-05-15",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPAG-40",
+    "summary": "Implement Maintenance Menu Configuration",
+    "start": "2026-05-01",
+    "end": "2026-05-22",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPAG-41",
+    "summary": "Design and implement Operating mode screens",
+    "start": "2026-05-01",
+    "end": "2026-05-22",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPAG-43",
+    "summary": "Design and implement Maintenance screens",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPAG-44",
+    "summary": "Implement String Translations",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  }
+]
