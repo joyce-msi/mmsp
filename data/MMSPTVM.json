@@ -80,22 +80,6 @@
     "sprint": 1
   },
   {
-    "key": "MMSPTVM-71",
-    "summary": "Recycler reload / AR reset",
-    "start": "2026-03-13",
-    "end": "2026-03-20",
-    "status": "To Do",
-    "sprint": 1
-  },
-  {
-    "key": "MMSPTVM-72",
-    "summary": "Change note box",
-    "start": "2026-03-13",
-    "end": "2026-03-20",
-    "status": "To Do",
-    "sprint": 1
-  },
-  {
     "key": "MMSPTVM-21",
     "summary": "SJT Module",
     "start": "2026-03-17",
@@ -184,12 +168,28 @@
     "sprint": 1
   },
   {
+    "key": "MMSPTVM-71",
+    "summary": "Recycler reload / AR reset",
+    "start": "2026-03-13",
+    "end": "2026-03-20",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPTVM-72",
+    "summary": "Change note box",
+    "start": "2026-03-13",
+    "end": "2026-03-20",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
     "key": "MMSPTVM-79",
     "summary": "CHS Hardware status",
     "start": "2026-03-24",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 2
   },
   {
     "key": "MMSPTVM-80",
@@ -197,7 +197,7 @@
     "start": "2026-03-24",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 2
   },
   {
     "key": "MMSPTVM-81",
@@ -205,7 +205,7 @@
     "start": "2026-03-24",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 2
   },
   {
     "key": "MMSPTVM-82",
@@ -213,7 +213,7 @@
     "start": "2026-03-24",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 2
   },
   {
     "key": "MMSPTVM-83",
@@ -221,7 +221,7 @@
     "start": "2026-03-24",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 2
   },
   {
     "key": "MMSPTVM-31",

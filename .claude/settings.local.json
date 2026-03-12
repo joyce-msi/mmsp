@@ -12,7 +12,11 @@
       "Bash(npm list:*)",
       "Bash(npx tsc:*)",
       "Bash(npx vite:*)",
-      "Bash(npm uninstall:*)"
+      "Bash(npm uninstall:*)",
+      "Bash(gh auth:*)",
+      "Bash(taskkill:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:joyce-msi.github.io)"
     ]
   }
 }
