@@ -64,6 +64,46 @@
     "sprint": 1
   },
   {
+    "key": "MN-11",
+    "summary": "CCS-Transactions (QR)",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MN-28",
+    "summary": "Message Management - Recoverable , Non Recoverable",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MN-2",
+    "summary": "CCS-Transactions (Beep card)",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MN-4",
+    "summary": "CCS-TXNP (End Shift, AR,Events) ",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MN-13",
+    "summary": "Parameter Download from CCHS to CCS (Blob to JSON convert)",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
     "key": "MN-1",
     "summary": "CCS-Parameters (DCD , Global)",
     "start": "2026-03-13",
@@ -82,14 +122,6 @@
   {
     "key": "MN-42",
     "summary": "DB Table Clean - Parameter Tables",
-    "start": "2026-03-13",
-    "end": "2026-03-20",
-    "status": "To Do",
-    "sprint": 1
-  },
-  {
-    "key": "MN-43",
-    "summary": "Parameter - ERD",
     "start": "2026-03-13",
     "end": "2026-03-20",
     "status": "To Do",
@@ -124,7 +156,7 @@
     "summary": "CCS - Portal - Transaction Mgmt",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -138,14 +170,6 @@
   {
     "key": "MN-35",
     "summary": "Design Enhancement PDMS - sent PDT to Stations (not to ECS)",
-    "start": "2026-03-27",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1
-  },
-  {
-    "key": "MN-20",
-    "summary": "CCS Final Design Doc",
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "To Do",
@@ -168,27 +192,11 @@
     "sprint": 1
   },
   {
-    "key": "MN-2",
-    "summary": "CCS-Transactions (Beep card)",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
     "key": "MN-53",
     "summary": "API Gateway",
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MN-11",
-    "summary": "CCS-Transactions (QR)",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "In Progress",
     "sprint": 2
   },
   {
@@ -232,16 +240,16 @@
     "sprint": 2
   },
   {
-    "key": "MN-45",
-    "summary": "Transaction Tables - ERD",
+    "key": "MN-51",
+    "summary": "QR Design Workshop Slides",
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2
   },
   {
-    "key": "MN-51",
-    "summary": "QR Design Workshop Slides",
+    "key": "MN-14",
+    "summary": "Transaction Upload from CCS to CCHS (JSON to Blob convert )",
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
@@ -280,14 +288,6 @@
     "sprint": 3
   },
   {
-    "key": "MN-4",
-    "summary": "CCS-TXNP (End Shift, AR,Events) ",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "In Progress",
-    "sprint": 3
-  },
-  {
     "key": "MN-9",
     "summary": "QR-PORTAL - Transactions ",
     "start": "2026-05-01",
@@ -312,8 +312,32 @@
     "sprint": 3
   },
   {
+    "key": "MN-29",
+    "summary": "Job Management - PreEOD, Housekeeping , Partitioning",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
     "key": "MN-48",
     "summary": "QR Exit , Under Fare Upgrade , Entry Exit Mismatch",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MN-30",
+    "summary": "stock Management",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MN-52",
+    "summary": "Transaction - Validation Rules",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",

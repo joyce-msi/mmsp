@@ -24,6 +24,206 @@
     "sprint": 1
   },
   {
+    "key": "MMSPAG-66",
+    "summary": "Replace audio module from RTS project with the one from the new Manila POC project",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-67",
+    "summary": "Implement Plc base class — serial communication, command/event protocol",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-68",
+    "summary": "Implement SerialComm — packet framing, BCC, command queue, DLE insertion",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-69",
+    "summary": "Implement GateController control methods — setOpModeScreen(), authorizeEntry(), authorizeExit(), setEntryMode(), setExitMode(), setBidirectionalMode(), setOutOfService()",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-70",
+    "summary": "Implement GateController event handlers — connectionStatusChanged(), barrierFaultEvent(), sensorStatusUpdated(), doorStatusChanged(), intrusionDetected(), invalidEventDetected(), emergencySignalDetected()",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-71",
+    "summary": "Integrate GateController into HardwareManager — wire mode changes, passage flow, and alarm callbacks",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-72",
+    "summary": "Update plc test application",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-73",
+    "summary": "Test using the PLC test application",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-74",
+    "summary": "Integration testing — verify PLC command/event communication end-to-end with hardware",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-75",
+    "summary": "Implement Tcm base class — serial communication, command/event protocol",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-76",
+    "summary": "Implement all TCM commands — capture(), rollback(), reject(), enable(), disable(), reset(), testMode(), writeRfidData(), readRfidData()",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-77",
+    "summary": "Implement status polling loop with communication error recovery",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-78",
+    "summary": "Implement magazine level detection — magazineLevelChanged(), magazineRemoved(), magazineReplaced() triggers",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-79",
+    "summary": "Implement card detection — cardDetected() trigger on ticket at antenna",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-80",
+    "summary": "Implement RFID data read/write with new magazine detection via block data comparison",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-81",
+    "summary": "Implement firmware version retrieval",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-82",
+    "summary": "Manual test app (TcmTest.cpp) with auto-capture mode and interactive test menu",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-83",
+    "summary": "Implement commErrorHandler() override — handle TCM communication errors in application",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-84",
+    "summary": "Implement errorDetected() override — map TCM errors to device status in application",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-85",
+    "summary": "Implement magazineLevelChanged() override — notify system when magazine is near full or full",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-86",
+    "summary": "Implement magazineReplaced() override — handle new magazine installation in application",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-87",
+    "summary": "Handle handleCmdFailure() — define retry or recovery behavior on command failure",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-88",
+    "summary": "Integrate Tcm into HardwareManager — instantiate, init, wire event handlers to system status",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-89",
+    "summary": "Update unit tests to cover event handler overrides and passage flow integration",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
+    "key": "MMSPAG-90",
+    "summary": "Integration testing — verify TCM command/event communication end-to-end with hardware",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1
+  },
+  {
     "key": "MMSPAG-5",
     "summary": "Implement PLC hardware control",
     "start": "2026-03-13",
