@@ -553,7 +553,8 @@ async function exportAllToExcel() {
       spRow.height = 22;
       ws.mergeCells(rowIdx, 1, rowIdx, INFO_COLS);
       const spCell = spRow.getCell(1);
-      spCell.value = `Sprint ${sprint}  (${sprintTasks.length} tasks)`;
+      const spLabel = sprintConfig[sprint]?.label || `Sprint ${sprint}`;
+      spCell.value = `${spLabel}  (${sprintTasks.length} tasks)`;
       spCell.font = { bold: true, size: 11, color: { argb: txtColor } };
       spCell.fill = { type: "pattern", pattern: "solid", fgColor: { argb: bg } };
       spCell.alignment = { vertical: "middle" };
