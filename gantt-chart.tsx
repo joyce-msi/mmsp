@@ -4,7 +4,7 @@ import { saveAs } from "file-saver";
 import projectsConfig from "./projects.json";
 
 type Status = "Done" | "In Progress" | "To Do";
-interface Task { key: string; summary: string; start: string; end: string; status: Status; sprint: number; }
+interface Task { key: string; summary: string; start: string; end: string; status: Status; sprint: number; assignee?: string; }
 interface ProjectDef { key: string; name: string; color: string; }
 
 const CHART_START = new Date("2026-03-11");
@@ -12,9 +12,9 @@ const CHART_END   = new Date("2026-05-29");
 const TOTAL_DAYS  = Math.round((CHART_END.getTime() - CHART_START.getTime()) / 86400000) + 1;
 
 const sprintConfig = {
-  1: { label: "Sprint 1", color: "#6366f1", bg: "#1e1b4b", range: "Mar 11 – Mar 31" },
-  2: { label: "Sprint 2", color: "#0ea5e9", bg: "#0c2a3f", range: "Apr 1 – Apr 30" },
-  3: { label: "Sprint 3", color: "#10b981", bg: "#052e1e", range: "May 1 – May 29" },
+  1: { label: "Sprint 1 – SJT March", color: "#6366f1", bg: "#1e1b4b", range: "Mar 11 – Mar 31" },
+  2: { label: "Sprint 2 – SVC April", color: "#0ea5e9", bg: "#0c2a3f", range: "Apr 1 – Apr 30" },
+  3: { label: "Sprint 3 – QR May", color: "#10b981", bg: "#052e1e", range: "May 1 – May 29" },
   4: { label: "Sprint 4", color: "#f59e0b", bg: "#2a1f0c", range: "Jun+" },
 } as Record<number, { label: string; color: string; bg: string; range: string }>;
 
@@ -360,6 +360,7 @@ function ProjectChart({ project }: { project: ProjectDef }) {
                             onMouseEnter={e => (e.currentTarget.style.transform = "scale(1.4)")}
                             onMouseLeave={e => (e.currentTarget.style.transform = "scale(1)")} />
                           {isMod && <span style={{ fontSize: 8, color: "#3b82f6", fontWeight: 700 }}>●</span>}
+                          {task.assignee && <span style={{ fontSize: 9, color: "#64748b", fontWeight: 500, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{task.assignee}</span>}
                         </div>
                         {editingKey === task.key ? (
                           <input autoFocus value={editValue} onChange={e => setEditValue(e.target.value)}
@@ -421,7 +422,7 @@ async function exportAllToExcel() {
     if (dow !== 0 && dow !== 6) allDates.push(d); // skip Sat & Sun
   }
 
-  const INFO_COLS = 5; // Key, Summary, Status, Start, End
+  const INFO_COLS = 6; // Key, Summary, Assignee, Status, Start, End
   const dayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
   const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
@@ -457,6 +458,7 @@ async function exportAllToExcel() {
     ws.columns = [
       { width: 14 }, // Key
       { width: 38 }, // Summary
+      { width: 18 }, // Assignee
       { width: 12 }, // Status
       { width: 12 }, // Start
       { width: 12 }, // End
@@ -501,7 +503,7 @@ async function exportAllToExcel() {
     // --- Row 2: Day number headers ---
     const dayRow = ws.getRow(2);
     dayRow.height = 18;
-    const infoHeaders = ["Key", "Summary", "Status", "Start", "End"];
+    const infoHeaders = ["Key", "Summary", "Assignee", "Status", "Start", "End"];
     for (let c = 0; c < INFO_COLS; c++) {
       const cell = dayRow.getCell(c + 1);
       cell.value = infoHeaders[c];
@@ -587,8 +589,15 @@ async function exportAllToExcel() {
         sumCell.alignment = { vertical: "middle", wrapText: true };
         sumCell.border = cellBorder;
 
+        // Assignee
+        const assigneeCell = row.getCell(3);
+        assigneeCell.value = task.assignee || "";
+        assigneeCell.font = { size: 9, color: { argb: "FF475569" } };
+        assigneeCell.alignment = { vertical: "middle" };
+        assigneeCell.border = cellBorder;
+
         // Status
-        const stCell = row.getCell(3);
+        const stCell = row.getCell(4);
         stCell.value = task.status;
         stCell.font = { size: 9, bold: true, color: { argb: statusTextColors[task.status] || "FF475569" } };
         stCell.fill = { type: "pattern", pattern: "solid", fgColor: { argb: barBg[task.status] || "FFFFFFFF" } };
@@ -596,14 +605,14 @@ async function exportAllToExcel() {
         stCell.border = cellBorder;
 
         // Start
-        const startCell = row.getCell(4);
+        const startCell = row.getCell(5);
         startCell.value = task.start;
         startCell.font = { size: 9, color: { argb: "FF475569" } };
         startCell.alignment = { horizontal: "center", vertical: "middle" };
         startCell.border = cellBorder;
 
         // End
-        const endCell = row.getCell(5);
+        const endCell = row.getCell(6);
         endCell.value = task.end;
         endCell.font = { size: 9, color: { argb: "FF475569" } };
         endCell.alignment = { horizontal: "center", vertical: "middle" };
@@ -709,7 +718,7 @@ export default function GanttChart() {
       <div style={{ marginBottom: 20, display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
         <div>
           <h1 style={{ margin: "0 0 4px", fontSize: 20, fontWeight: 700, color: "#f8fafc" }}>MMSP — Development Gantt Chart</h1>
-          <p style={{ margin: 0, fontSize: 13, color: "#64748b" }}>Sprint 1 (Mar) · Sprint 2 (Apr) · Sprint 3 (May)</p>
+          <p style={{ margin: 0, fontSize: 13, color: "#64748b" }}>Sprint 1 SJT (Mar) · Sprint 2 SVC (Apr) · Sprint 3 QR (May)</p>
         </div>
         <button onClick={handleExport} disabled={exporting}
           style={{ background: "#1e293b", border: "1px solid #334155", color: "#94a3b8", borderRadius: 8, padding: "8px 16px", fontSize: 12, fontWeight: 600, cursor: exporting ? "wait" : "pointer", display: "flex", alignItems: "center", gap: 6, transition: "all 0.15s", opacity: exporting ? 0.6 : 1 }}>

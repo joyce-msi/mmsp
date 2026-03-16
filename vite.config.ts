@@ -96,7 +96,7 @@ export default defineConfig({
               const params = new URLSearchParams({
                 jql: `project = "${projectKey}" ORDER BY rank ASC`,
                 maxResults: "100",
-                fields: "summary,status,customfield_11702,duedate,customfield_10006,labels",
+                fields: "summary,status,assignee,customfield_11702,duedate,customfield_10006,labels",
               });
               if (nextPageToken) params.set("nextPageToken", nextPageToken);
 
@@ -127,6 +127,7 @@ export default defineConfig({
             const tasks = sprintIssues.map(i => {
               const sprint = extractSprint(i.fields, sprintMap);
               const fallback = sprintDateRanges[sprint] || sprintDateRanges[1];
+              const assignee = (i.fields.assignee as { displayName: string } | null)?.displayName;
               return {
                 key: i.key,
                 summary: (i.fields.summary as string) || "",
@@ -134,15 +135,19 @@ export default defineConfig({
                 end: (i.fields.duedate as string) || fallback.end,
                 status: mapStatus(((i.fields.status as { name: string }) || { name: "To Do" }).name),
                 sprint,
+                ...(assignee ? { assignee } : {}),
               };
             }).filter(t => t.sprint >= 1);
 
             tasks.sort((a, b) => a.sprint - b.sprint || a.start.localeCompare(b.start));
 
-            // Also save to local data file
-            const dataDir = path.join(__dirname, "data");
-            if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir);
-            fs.writeFileSync(path.join(dataDir, `${projectKey}.json`), JSON.stringify(tasks, null, 2));
+            // Also save to local data files (both data/ and public/data/)
+            const json = JSON.stringify(tasks, null, 2);
+            for (const dir of ["data", path.join("public", "data")]) {
+              const dataDir = path.join(__dirname, dir);
+              if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
+              fs.writeFileSync(path.join(dataDir, `${projectKey}.json`), json);
+            }
 
             res.setHeader("Content-Type", "application/json");
             res.end(JSON.stringify(tasks));

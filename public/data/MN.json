@@ -13,7 +13,8 @@
     "start": "2026-03-11",
     "end": "2026-03-13",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-25",
@@ -21,7 +22,8 @@
     "start": "2026-03-11",
     "end": "2026-03-13",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-26",
@@ -29,7 +31,8 @@
     "start": "2026-03-11",
     "end": "2026-03-17",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "swat_mooi_low"
   },
   {
     "key": "MN-22",
@@ -37,7 +40,8 @@
     "start": "2026-03-11",
     "end": "2026-03-17",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jyothi_MADDALI"
   },
   {
     "key": "MN-23",
@@ -45,7 +49,8 @@
     "start": "2026-03-11",
     "end": "2026-03-17",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jyothi_MADDALI"
   },
   {
     "key": "MN-56",
@@ -53,7 +58,8 @@
     "start": "2026-03-11",
     "end": "2026-03-13",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-59",
@@ -61,7 +67,8 @@
     "start": "2026-03-11",
     "end": "2026-03-13",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Keshav Natarajan"
   },
   {
     "key": "MN-11",
@@ -69,15 +76,17 @@
     "start": "2026-03-11",
     "end": "2026-03-31",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-28",
     "summary": "Message Management - Recoverable , Non Recoverable",
     "start": "2026-03-11",
     "end": "2026-03-31",
-    "status": "In Progress",
-    "sprint": 1
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-2",
@@ -85,15 +94,17 @@
     "start": "2026-03-11",
     "end": "2026-03-31",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-4",
     "summary": "CCS-TXNP (End Shift, AR,Events) ",
     "start": "2026-03-11",
     "end": "2026-03-31",
-    "status": "In Progress",
-    "sprint": 1
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-13",
@@ -101,7 +112,8 @@
     "start": "2026-03-11",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Henny Chendawan"
   },
   {
     "key": "MN-1",
@@ -109,7 +121,8 @@
     "start": "2026-03-13",
     "end": "2026-03-20",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "bhuvaneswari_KOOCHU"
   },
   {
     "key": "MN-3",
@@ -117,7 +130,8 @@
     "start": "2026-03-13",
     "end": "2026-03-20",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-42",
@@ -125,7 +139,8 @@
     "start": "2026-03-13",
     "end": "2026-03-20",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "bhuvaneswari_KOOCHU"
   },
   {
     "key": "MN-5",
@@ -133,7 +148,8 @@
     "start": "2026-03-17",
     "end": "2026-03-24",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "bhuvaneswari_KOOCHU"
   },
   {
     "key": "MN-46",
@@ -141,7 +157,8 @@
     "start": "2026-03-17",
     "end": "2026-03-24",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "bhuvaneswari_KOOCHU"
   },
   {
     "key": "MN-47",
@@ -149,7 +166,8 @@
     "start": "2026-03-17",
     "end": "2026-03-24",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "bhuvaneswari_KOOCHU"
   },
   {
     "key": "MN-15",
@@ -157,7 +175,8 @@
     "start": "2026-03-17",
     "end": "2026-03-24",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-17",
@@ -165,7 +184,8 @@
     "start": "2026-03-20",
     "end": "2026-03-27",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Prakash HN"
   },
   {
     "key": "MN-35",
@@ -173,7 +193,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "bhuvaneswari_KOOCHU"
   },
   {
     "key": "MN-31",
@@ -181,7 +202,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-50",
@@ -189,7 +211,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "priya thota"
   },
   {
     "key": "MN-53",
@@ -197,7 +220,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "priya thota"
   },
   {
     "key": "MN-18",
@@ -205,7 +229,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Prakash HN"
   },
   {
     "key": "MN-32",
@@ -213,7 +238,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-33",
@@ -221,7 +247,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-34",
@@ -229,7 +256,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-44",
@@ -237,7 +265,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-51",
@@ -245,7 +274,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "priya thota"
   },
   {
     "key": "MN-14",
@@ -253,7 +283,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "bhuvaneswari_KOOCHU"
   },
   {
     "key": "MN-6",
@@ -261,7 +292,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "In Progress",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-8",
@@ -269,7 +301,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-10",
@@ -277,7 +310,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-7",
@@ -285,7 +319,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-9",
@@ -293,7 +328,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "bhuvaneswari_KOOCHU"
   },
   {
     "key": "MN-19",
@@ -301,7 +337,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Prakash HN"
   },
   {
     "key": "MN-38",
@@ -309,7 +346,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-29",
@@ -317,7 +355,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "bhuvaneswari_KOOCHU"
   },
   {
     "key": "MN-48",
@@ -325,7 +364,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-30",
@@ -333,7 +373,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "bhuvaneswari_KOOCHU"
   },
   {
     "key": "MN-52",
@@ -341,6 +382,7 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "stevenleeyongwah"
   }
 ]

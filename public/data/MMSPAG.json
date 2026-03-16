@@ -5,7 +5,8 @@
     "start": "2026-03-11",
     "end": "2026-03-13",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-2",
@@ -13,7 +14,8 @@
     "start": "2026-03-11",
     "end": "2026-03-13",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-65",
@@ -21,15 +23,17 @@
     "start": "2026-03-11",
     "end": "2026-03-13",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-66",
     "summary": "Replace audio module from RTS project with the one from the new Manila POC project",
     "start": "2026-03-11",
     "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1
+    "status": "In Progress",
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-67",
@@ -224,12 +228,21 @@
     "sprint": 1
   },
   {
+    "key": "MMSPAG-91",
+    "summary": "Update audio test application",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "In Progress",
+    "sprint": 1
+  },
+  {
     "key": "MMSPAG-5",
     "summary": "Implement PLC hardware control",
     "start": "2026-03-13",
     "end": "2026-03-17",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-52",
@@ -237,7 +250,8 @@
     "start": "2026-03-13",
     "end": "2026-03-17",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-54",
@@ -245,15 +259,17 @@
     "start": "2026-03-13",
     "end": "2026-03-17",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-7",
     "summary": "Implement Audio hardware control",
     "start": "2026-03-17",
     "end": "2026-03-20",
-    "status": "To Do",
-    "sprint": 1
+    "status": "In Progress",
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-6",
@@ -261,7 +277,8 @@
     "start": "2026-03-17",
     "end": "2026-03-20",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-8",
@@ -269,7 +286,8 @@
     "start": "2026-03-17",
     "end": "2026-03-20",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-4",
@@ -277,7 +295,8 @@
     "start": "2026-03-20",
     "end": "2026-03-24",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-13",
@@ -285,7 +304,8 @@
     "start": "2026-03-20",
     "end": "2026-03-24",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-9",
@@ -293,7 +313,8 @@
     "start": "2026-03-20",
     "end": "2026-03-24",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-16",
@@ -301,7 +322,8 @@
     "start": "2026-03-24",
     "end": "2026-03-27",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-18",
@@ -309,7 +331,8 @@
     "start": "2026-03-24",
     "end": "2026-03-27",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-19",
@@ -317,7 +340,8 @@
     "start": "2026-03-24",
     "end": "2026-03-27",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-20",
@@ -325,7 +349,8 @@
     "start": "2026-03-24",
     "end": "2026-03-27",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-27",
@@ -333,7 +358,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-61",
@@ -341,7 +367,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Nathaniel Pereira"
   },
   {
     "key": "MMSPAG-62",
@@ -349,7 +376,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Nathaniel Pereira"
   },
   {
     "key": "MMSPAG-63",
@@ -357,7 +385,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Nathaniel Pereira"
   },
   {
     "key": "MMSPAG-64",
@@ -365,7 +394,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Nathaniel Pereira"
   },
   {
     "key": "MMSPAG-42",
@@ -373,7 +403,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Joyce Tankiatsy"
   },
   {
     "key": "MMSPAG-15",

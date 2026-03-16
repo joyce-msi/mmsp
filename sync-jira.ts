@@ -24,6 +24,7 @@ interface JiraIssue {
   fields: {
     summary: string;
     status: { name: string };
+    assignee: { displayName: string } | null;
     customfield_11702: string | null; // Start Date
     duedate: string | null;
     customfield_10006?: Array<{ name: string; id: number; state: string }> | null; // Sprint
@@ -38,6 +39,7 @@ interface TaskData {
   end: string;
   status: "Done" | "In Progress" | "To Do";
   sprint: number;
+  assignee?: string;
 }
 
 // Sprint date ranges used as fallback for tasks without dates
@@ -57,7 +59,7 @@ async function fetchAllIssues(projectKey: string): Promise<JiraIssue[]> {
     const params = new URLSearchParams({
       jql,
       maxResults: String(maxResults),
-      fields: "summary,status,customfield_11702,duedate,customfield_10006,labels",
+      fields: "summary,status,assignee,customfield_11702,duedate,customfield_10006,labels",
     });
     if (nextPageToken) {
       params.set("nextPageToken", nextPageToken);
@@ -190,6 +192,7 @@ async function syncProject(project: ProjectConfig): Promise<void> {
       end: i.fields.duedate || fallback.end,
       status: mapStatus(i.fields.status.name),
       sprint,
+      ...(i.fields.assignee?.displayName ? { assignee: i.fields.assignee.displayName } : {}),
     };
   });
 
@@ -208,12 +211,13 @@ async function syncProject(project: ProjectConfig): Promise<void> {
   // Sort by sprint then start date
   tasks.sort((a, b) => a.sprint - b.sprint || a.start.localeCompare(b.start));
 
-  // Write to data file
-  const dataDir = path.join(import.meta.dirname, "data");
-  if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir);
-
-  const outPath = path.join(dataDir, `${project.key}.json`);
-  fs.writeFileSync(outPath, JSON.stringify(tasks, null, 2));
+  // Write to data file (both data/ and public/data/ for Vite dev server)
+  const json = JSON.stringify(tasks, null, 2);
+  for (const dir of ["data", path.join("public", "data")]) {
+    const dataDir = path.join(import.meta.dirname, dir);
+    if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
+    fs.writeFileSync(path.join(dataDir, `${project.key}.json`), json);
+  }
   console.log(`  Wrote ${tasks.length} tasks to data/${project.key}.json`);
 }
 

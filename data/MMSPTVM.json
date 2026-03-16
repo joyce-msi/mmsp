@@ -5,7 +5,8 @@
     "start": "2026-03-11",
     "end": "2026-03-17",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "mingjie_LIU"
   },
   {
     "key": "MMSPTVM-7",
@@ -13,7 +14,8 @@
     "start": "2026-03-11",
     "end": "2026-03-17",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-5",
@@ -21,7 +23,8 @@
     "start": "2026-03-11",
     "end": "2026-03-17",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-12",
@@ -29,7 +32,8 @@
     "start": "2026-03-11",
     "end": "2026-03-17",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-65",
@@ -37,7 +41,8 @@
     "start": "2026-03-11",
     "end": "2026-03-17",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-6",
@@ -45,7 +50,8 @@
     "start": "2026-03-11",
     "end": "2026-03-17",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-113",
@@ -53,7 +59,8 @@
     "start": "2026-03-11",
     "end": "2026-03-17",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-16",
@@ -117,7 +124,8 @@
     "start": "2026-03-17",
     "end": "2026-03-24",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-28",
@@ -285,7 +293,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "mingjie_LIU"
   },
   {
     "key": "MMSPTVM-8",
@@ -293,7 +302,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "mingjie_LIU"
   },
   {
     "key": "MMSPTVM-14",
@@ -309,7 +319,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-44",
@@ -341,7 +352,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-49",
@@ -357,7 +369,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-54",
@@ -365,6 +378,7 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "rui_hui_TOH"
   }
 ]

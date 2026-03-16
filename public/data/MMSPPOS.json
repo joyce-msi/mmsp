@@ -1,10 +1,18 @@
 [
   {
+    "key": "MMSPPOS-3",
+    "summary": "Remove Cepas support",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "Done",
+    "sprint": 1
+  },
+  {
     "key": "MMSPPOS-1",
     "summary": "Remove EZ-Link support",
     "start": "2026-03-11",
     "end": "2026-03-13",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -12,15 +20,7 @@
     "summary": "Remove NFP support",
     "start": "2026-03-11",
     "end": "2026-03-13",
-    "status": "In Progress",
-    "sprint": 1
-  },
-  {
-    "key": "MMSPPOS-3",
-    "summary": "Remove Cepas support",
-    "start": "2026-03-11",
-    "end": "2026-03-13",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -28,7 +28,7 @@
     "summary": "Remove TNG support",
     "start": "2026-03-11",
     "end": "2026-03-13",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -36,7 +36,7 @@
     "summary": "Components Integration - CSCRW components",
     "start": "2026-03-13",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -44,7 +44,7 @@
     "summary": "Components Integration - PAR",
     "start": "2026-03-13",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -52,7 +52,7 @@
     "summary": "Components Integration - MSD",
     "start": "2026-03-13",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -60,7 +60,7 @@
     "summary": "Components Integration - FCM",
     "start": "2026-03-13",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -68,7 +68,7 @@
     "summary": "Components Integration - BRCommon",
     "start": "2026-03-13",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -84,7 +84,7 @@
     "summary": "Testing and debugging support - SJT Card XML",
     "start": "2026-03-17",
     "end": "2026-03-20",
-    "status": "To Do",
+    "status": "In Progress",
     "sprint": 1
   },
   {
