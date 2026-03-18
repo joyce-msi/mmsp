@@ -1,22 +1,5 @@
 [
   {
-    "key": "MMSPSC-5",
-    "summary": "Replace RTS references with MMSP/NS01",
-    "start": "2026-03-11",
-    "end": "2026-03-17",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Madhavi Karusala"
-  },
-  {
-    "key": "MMSPSC-6",
-    "summary": "Remove obsolete features",
-    "start": "2026-03-11",
-    "end": "2026-03-17",
-    "status": "In Progress",
-    "sprint": 1
-  },
-  {
     "key": "MMSPSC-1",
     "summary": "Setup Repositories-SC, MCS, MCS Portal",
     "start": "2026-03-11",
@@ -35,6 +18,24 @@
     "assignee": "Madhavi Karusala"
   },
   {
+    "key": "MMSPSC-5",
+    "summary": "Replace RTS references with MMSP/NS01",
+    "start": "2026-03-11",
+    "end": "2026-03-17",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-6",
+    "summary": "Remove obsolete features",
+    "start": "2026-03-11",
+    "end": "2026-03-17",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "Madhavi Karusala"
+  },
+  {
     "key": "MMSPSC-11",
     "summary": "SJT Transactions",
     "start": "2026-03-17",
@@ -48,8 +49,9 @@
     "summary": "PRMS Microservice",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "To Do",
-    "sprint": 1
+    "status": "In Progress",
+    "sprint": 1,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-8",
@@ -57,7 +59,8 @@
     "start": "2026-03-20",
     "end": "2026-03-27",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-15",
@@ -65,7 +68,8 @@
     "start": "2026-03-24",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-21",
@@ -73,7 +77,8 @@
     "start": "2026-03-24",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-22",
@@ -81,7 +86,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-10",
@@ -89,7 +95,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-12",
@@ -97,7 +104,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-16",
@@ -105,7 +113,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-18",
@@ -113,7 +122,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-9",
@@ -121,7 +131,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-19",
@@ -129,7 +140,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-24",
@@ -137,7 +149,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-23",
@@ -145,7 +158,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-26",
@@ -153,7 +167,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-27",
@@ -161,7 +176,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-28",
@@ -169,7 +185,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-25",
@@ -177,7 +194,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-29",
@@ -185,6 +203,7 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Madhavi Karusala"
   }
 ]

@@ -5,7 +5,8 @@
     "start": "2026-03-11",
     "end": "2026-03-13",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-1",
@@ -13,7 +14,8 @@
     "start": "2026-03-11",
     "end": "2026-03-13",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-2",
@@ -21,7 +23,8 @@
     "start": "2026-03-11",
     "end": "2026-03-13",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-4",
@@ -29,7 +32,8 @@
     "start": "2026-03-11",
     "end": "2026-03-13",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-13",
@@ -37,7 +41,8 @@
     "start": "2026-03-13",
     "end": "2026-03-17",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-5",
@@ -45,7 +50,8 @@
     "start": "2026-03-13",
     "end": "2026-03-17",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-6",
@@ -53,7 +59,8 @@
     "start": "2026-03-13",
     "end": "2026-03-17",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-12",
@@ -61,7 +68,8 @@
     "start": "2026-03-13",
     "end": "2026-03-17",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-11",
@@ -69,15 +77,17 @@
     "start": "2026-03-13",
     "end": "2026-03-17",
     "status": "Done",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-9",
     "summary": "Components Integration - BRSJT",
     "start": "2026-03-13",
     "end": "2026-03-17",
-    "status": "To Do",
-    "sprint": 1
+    "status": "In Progress",
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-34",
@@ -85,7 +95,26 @@
     "start": "2026-03-17",
     "end": "2026-03-20",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-21",
+    "summary": "UI design - Application loading",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "In Progress",
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-23",
+    "summary": "UI design - Login",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "In Progress",
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-15",
@@ -93,7 +122,8 @@
     "start": "2026-03-17",
     "end": "2026-03-20",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-16",
@@ -101,7 +131,8 @@
     "start": "2026-03-17",
     "end": "2026-03-20",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-20",
@@ -109,15 +140,8 @@
     "start": "2026-03-17",
     "end": "2026-03-24",
     "status": "To Do",
-    "sprint": 1
-  },
-  {
-    "key": "MMSPPOS-21",
-    "summary": "UI design - Application loading",
-    "start": "2026-03-17",
-    "end": "2026-03-24",
-    "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-26",
@@ -125,15 +149,8 @@
     "start": "2026-03-17",
     "end": "2026-03-24",
     "status": "To Do",
-    "sprint": 1
-  },
-  {
-    "key": "MMSPPOS-23",
-    "summary": "UI design - Login",
-    "start": "2026-03-17",
-    "end": "2026-03-24",
-    "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-24",
@@ -141,7 +158,8 @@
     "start": "2026-03-17",
     "end": "2026-03-24",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-25",
@@ -149,7 +167,8 @@
     "start": "2026-03-17",
     "end": "2026-03-24",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-27",
@@ -157,7 +176,8 @@
     "start": "2026-03-17",
     "end": "2026-03-24",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-91",
@@ -165,7 +185,8 @@
     "start": "2026-03-17",
     "end": "2026-03-24",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-56",
@@ -173,7 +194,8 @@
     "start": "2026-03-24",
     "end": "2026-03-27",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-58",
@@ -181,7 +203,8 @@
     "start": "2026-03-24",
     "end": "2026-03-27",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-57",
@@ -189,7 +212,8 @@
     "start": "2026-03-24",
     "end": "2026-03-27",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-59",
@@ -197,7 +221,8 @@
     "start": "2026-03-24",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-60",
@@ -205,7 +230,8 @@
     "start": "2026-03-24",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-61",
@@ -213,7 +239,8 @@
     "start": "2026-03-24",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-62",
@@ -221,7 +248,8 @@
     "start": "2026-03-24",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-63",
@@ -229,7 +257,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-64",
@@ -237,7 +266,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-65",
@@ -245,7 +275,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-66",
@@ -253,7 +284,8 @@
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "To Do",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-10",
@@ -261,7 +293,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-18",
@@ -269,7 +302,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-17",
@@ -277,7 +311,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-22",
@@ -285,7 +320,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-33",
@@ -293,7 +329,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-36",
@@ -301,7 +338,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-37",
@@ -309,7 +347,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-38",
@@ -317,7 +356,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-39",
@@ -325,7 +365,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-40",
@@ -333,7 +374,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-41",
@@ -341,7 +383,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-42",
@@ -349,7 +392,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-43",
@@ -357,7 +401,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-44",
@@ -365,7 +410,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-45",
@@ -373,7 +419,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-46",
@@ -381,7 +428,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-47",
@@ -389,7 +437,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-48",
@@ -397,7 +446,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-50",
@@ -405,7 +455,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-51",
@@ -413,7 +464,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-52",
@@ -421,7 +473,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-49",
@@ -429,7 +482,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-53",
@@ -437,7 +491,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-54",
@@ -445,7 +500,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-55",
@@ -453,7 +509,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-28",
@@ -461,7 +518,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-29",
@@ -469,7 +527,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-30",
@@ -477,7 +536,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-31",
@@ -485,7 +545,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-32",
@@ -493,7 +554,8 @@
     "start": "2026-04-01",
     "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-8",
@@ -501,7 +563,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-14",
@@ -509,7 +572,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-35",
@@ -517,7 +581,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-67",
@@ -525,7 +590,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-68",
@@ -533,7 +599,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-69",
@@ -541,7 +608,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-70",
@@ -549,7 +617,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-71",
@@ -557,7 +626,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-72",
@@ -565,7 +635,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-73",
@@ -573,7 +644,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-74",
@@ -581,7 +653,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-75",
@@ -589,7 +662,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-76",
@@ -597,7 +671,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-77",
@@ -605,7 +680,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-78",
@@ -613,7 +689,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-79",
@@ -621,7 +698,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-80",
@@ -629,7 +707,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-81",
@@ -637,7 +716,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-82",
@@ -645,7 +725,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-83",
@@ -653,7 +734,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-84",
@@ -661,7 +743,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-85",
@@ -669,7 +752,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-86",
@@ -677,7 +761,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-87",
@@ -685,7 +770,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-88",
@@ -693,7 +779,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-89",
@@ -701,7 +788,8 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-90",
@@ -709,6 +797,7 @@
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
   }
 ]

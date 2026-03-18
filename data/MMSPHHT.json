@@ -31,7 +31,7 @@
     "summary": "[UI] Gate Mode",
     "start": "2026-03-02",
     "end": "2026-03-09",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "TAN Yong Yew"
   },
@@ -40,7 +40,16 @@
     "summary": "[UI] Login",
     "start": "2026-03-02",
     "end": "2026-03-09",
-    "status": "To Do",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "Tan Kuan Feng"
+  },
+  {
+    "key": "MMSPHHT-9",
+    "summary": "[UI] SJT/QR ticket (Main to Purchase Completion)",
+    "start": "2026-03-11",
+    "end": "2026-03-25",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Tan Kuan Feng"
   },
@@ -76,16 +85,7 @@
     "summary": "[UI] SVC Sales (Main to Sale Issuance Completion)",
     "start": "2026-03-11",
     "end": "2026-03-25",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Tan Kuan Feng"
-  },
-  {
-    "key": "MMSPHHT-9",
-    "summary": "[UI] SJT/QR ticket (Main to Purchase Completion)",
-    "start": "2026-03-11",
-    "end": "2026-03-25",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Tan Kuan Feng"
   },
@@ -94,7 +94,7 @@
     "summary": "[UI] Maintenance Menu",
     "start": "2026-03-11",
     "end": "2026-03-25",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Tan Kuan Feng"
   },
@@ -103,7 +103,7 @@
     "summary": "[UI] Parameter Management Status",
     "start": "2026-03-11",
     "end": "2026-03-25",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "TAN Yong Yew"
   },
@@ -112,7 +112,7 @@
     "summary": "[UI] Out of Service",
     "start": "2026-03-11",
     "end": "2026-03-23",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Tan Kuan Feng"
   },
@@ -166,45 +166,90 @@
     "summary": "[DEMO] Read Simulated SJT and display card info",
     "start": "2026-03-11",
     "end": "2026-03-23",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "TAN Yong Yew"
   },
   {
-    "key": "MMSPHHT-24",
-    "summary": "[UI, Status] System Monitor",
+    "key": "MMSPHHT-34",
+    "summary": "Component(DeviceMgmt) Lib Integration",
     "start": "2026-03-11",
-    "end": "2026-03-23",
+    "end": "2026-02-23",
     "status": "To Do",
     "sprint": 1,
+    "assignee": "Chua Yeow Hon"
+  },
+  {
+    "key": "MMSPHHT-36",
+    "summary": "[HW Integration] SVC Hardware interface development",
+    "start": "2026-03-11",
+    "end": "2026-03-23",
+    "status": "In Progress",
+    "sprint": 1,
+    "assignee": "Chua Yeow Hon"
+  },
+  {
+    "key": "MMSPHHT-38",
+    "summary": "[UI] Add working logout button for Mode selection screen",
+    "start": "2026-03-11",
+    "end": "2026-03-23",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "Tan Kuan Feng"
+  },
+  {
+    "key": "MMSPHHT-33",
+    "summary": "Testing frameworks integration",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "Chua Yeow Hon"
+  },
+  {
+    "key": "MMSPHHT-37",
+    "summary": "[UI] Toast User Feedback",
+    "start": "2026-03-11",
+    "end": "2026-04-06",
+    "status": "In Progress",
+    "sprint": 1,
+    "assignee": "Chua Yeow Hon"
+  },
+  {
+    "key": "MMSPHHT-24",
+    "summary": "[UI, Status] System Monitor",
+    "start": "2026-04-01",
+    "end": "2026-03-23",
+    "status": "To Do",
+    "sprint": 2,
     "assignee": "Tan Kuan Feng"
   },
   {
     "key": "MMSPHHT-22",
     "summary": "Transaction Management",
-    "start": "2026-03-11",
+    "start": "2026-04-01",
     "end": "2026-03-23",
     "status": "To Do",
-    "sprint": 1,
+    "sprint": 2,
     "assignee": "TAN Yong Yew"
   },
   {
     "key": "MMSPHHT-17",
     "summary": "[UI] SVC Upgrade",
-    "start": "2026-03-11",
+    "start": "2026-04-01",
     "end": "2026-03-23",
     "status": "To Do",
-    "sprint": 1,
+    "sprint": 2,
     "assignee": "Tan Kuan Feng"
   },
   {
-    "key": "MMSPHHT-34",
-    "summary": "Component(DeviceMgmt) Lib Integration",
+    "key": "MMSPHHT-35",
+    "summary": "[HW Integration] QR Development",
     "start": "2026-04-01",
-    "end": "2026-02-23",
+    "end": "2026-04-06",
     "status": "To Do",
     "sprint": 2,
-    "assignee": "Chua Yeow Hon"
+    "assignee": "Tan Kuan Feng"
   },
   {
     "key": "MMSPHHT-23",
@@ -229,50 +274,5 @@
     "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2
-  },
-  {
-    "key": "MMSPHHT-35",
-    "summary": "[HW Integration] QR Development",
-    "start": "2026-05-01",
-    "end": "2026-04-06",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "Tan Kuan Feng"
-  },
-  {
-    "key": "MMSPHHT-36",
-    "summary": "[HW Integration] SVC Hardware interface development",
-    "start": "2026-05-01",
-    "end": "2026-03-23",
-    "status": "In Progress",
-    "sprint": 3,
-    "assignee": "Chua Yeow Hon"
-  },
-  {
-    "key": "MMSPHHT-38",
-    "summary": "[UI] Add working logout button for Mode selection screen",
-    "start": "2026-05-01",
-    "end": "2026-03-23",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "Tan Kuan Feng"
-  },
-  {
-    "key": "MMSPHHT-33",
-    "summary": "Testing frameworks integration",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "Done",
-    "sprint": 3,
-    "assignee": "Chua Yeow Hon"
-  },
-  {
-    "key": "MMSPHHT-37",
-    "summary": "[UI] Toast User Feedback",
-    "start": "2026-05-01",
-    "end": "2026-04-06",
-    "status": "In Progress",
-    "sprint": 3,
-    "assignee": "Chua Yeow Hon"
   }
 ]

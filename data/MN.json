@@ -71,6 +71,15 @@
     "assignee": "Keshav Natarajan"
   },
   {
+    "key": "MN-85",
+    "summary": "MCS-Station Layout",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1,
+    "assignee": "Gu Chao"
+  },
+  {
     "key": "MN-11",
     "summary": "CCS-Transactions (QR)",
     "start": "2026-03-11",
@@ -179,6 +188,24 @@
     "assignee": "stevenleeyongwah"
   },
   {
+    "key": "MN-91",
+    "summary": "MCS-Login/Logout",
+    "start": "2026-03-18",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1,
+    "assignee": "Gu Chao"
+  },
+  {
+    "key": "MN-90",
+    "summary": "MCS-Parameter Overview",
+    "start": "2026-03-18",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 1,
+    "assignee": "Gu Chao"
+  },
+  {
     "key": "MN-17",
     "summary": "CCS -  Report Spec",
     "start": "2026-03-20",
@@ -201,7 +228,7 @@
     "summary": "Code merge from RTS - Upgrade JDK 21 , Spring Boot 3 , Hazelcast",
     "start": "2026-03-27",
     "end": "2026-03-31",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "stevenleeyongwah"
   },
@@ -242,6 +269,24 @@
     "assignee": "stevenleeyongwah"
   },
   {
+    "key": "MN-86",
+    "summary": "MCS-Summary Status",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Gu Chao"
+  },
+  {
+    "key": "MN-84",
+    "summary": "MCS-System Map",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Gu Chao"
+  },
+  {
     "key": "MN-33",
     "summary": "Code merge from RTS - Non Functional Performance",
     "start": "2026-04-01",
@@ -249,6 +294,15 @@
     "status": "To Do",
     "sprint": 2,
     "assignee": "stevenleeyongwah"
+  },
+  {
+    "key": "MN-88",
+    "summary": "MCS-Device Events",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Gu Chao"
   },
   {
     "key": "MN-34",
@@ -314,6 +368,15 @@
     "assignee": "stevenleeyongwah"
   },
   {
+    "key": "MN-87",
+    "summary": "MCS-Detail Device Status",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Gu Chao"
+  },
+  {
     "key": "MN-7",
     "summary": "QRS - QR Validator - Online",
     "start": "2026-05-01",
@@ -321,6 +384,15 @@
     "status": "To Do",
     "sprint": 3,
     "assignee": "stevenleeyongwah"
+  },
+  {
+    "key": "MN-89",
+    "summary": "MCS-Send Command",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Gu Chao"
   },
   {
     "key": "MN-9",

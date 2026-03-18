@@ -208,7 +208,7 @@
     "summary": "Integrate Tcm into HardwareManager — instantiate, init, wire event handlers to system status",
     "start": "2026-03-11",
     "end": "2026-03-31",
-    "status": "To Do",
+    "status": "In Progress",
     "sprint": 1
   },
   {
@@ -233,7 +233,8 @@
     "start": "2026-03-11",
     "end": "2026-03-31",
     "status": "In Progress",
-    "sprint": 1
+    "sprint": 1,
+    "assignee": "Irvin Libres"
   },
   {
     "key": "MMSPAG-5",
@@ -258,7 +259,7 @@
     "summary": "Configure serial ports",
     "start": "2026-03-13",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Irvin Libres"
   },
@@ -267,7 +268,7 @@
     "summary": "Implement Audio hardware control",
     "start": "2026-03-17",
     "end": "2026-03-20",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Irvin Libres"
   },
@@ -404,7 +405,7 @@
     "end": "2026-03-31",
     "status": "To Do",
     "sprint": 1,
-    "assignee": "Joyce Tankiatsy"
+    "assignee": "Nathaniel Pereira"
   },
   {
     "key": "MMSPAG-15",
