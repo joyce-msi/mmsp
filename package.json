@@ -6,7 +6,8 @@
     "dev": "vite",
     "build": "vite build",
     "sync": "npx tsx sync-jira.ts",
-    "deploy": "bash deploy.sh"
+    "deploy": "bash deploy.sh",
+    "check-labels": "npx tsx check-labels.ts"
   },
   "dependencies": {
     "@types/file-saver": "^2.0.7",
