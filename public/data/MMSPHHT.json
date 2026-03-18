@@ -219,7 +219,7 @@
     "key": "MMSPHHT-24",
     "summary": "[UI, Status] System Monitor",
     "start": "2026-04-01",
-    "end": "2026-03-23",
+    "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2,
     "assignee": "Tan Kuan Feng"
@@ -228,7 +228,7 @@
     "key": "MMSPHHT-22",
     "summary": "Transaction Management",
     "start": "2026-04-01",
-    "end": "2026-03-23",
+    "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2,
     "assignee": "TAN Yong Yew"
@@ -237,7 +237,7 @@
     "key": "MMSPHHT-17",
     "summary": "[UI] SVC Upgrade",
     "start": "2026-04-01",
-    "end": "2026-03-23",
+    "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2,
     "assignee": "Tan Kuan Feng"

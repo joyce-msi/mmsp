@@ -185,11 +185,15 @@ async function syncProject(project: ProjectConfig): Promise<void> {
   const allTasks = sprintIssues.map(i => {
     const sprint = extractSprintNumber(i, sprintMap);
     const fallback = sprintDateRanges[sprint] || sprintDateRanges[1];
+    const start = i.fields.customfield_11702 || fallback.start;
+    let end = i.fields.duedate || fallback.end;
+    // If end date is before start date, use sprint end date as fallback
+    if (end < start) end = fallback.end;
     return {
       key: i.key,
       summary: i.fields.summary,
-      start: i.fields.customfield_11702 || fallback.start,
-      end: i.fields.duedate || fallback.end,
+      start,
+      end,
       status: mapStatus(i.fields.status.name),
       sprint,
       ...(i.fields.assignee?.displayName ? { assignee: i.fields.assignee.displayName } : {}),
