@@ -40,7 +40,7 @@
     "summary": "SJT Transactions",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Madhavi Karusala"
   },
@@ -49,7 +49,7 @@
     "summary": "PRMS Microservice",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Madhavi Karusala"
   },
@@ -58,16 +58,7 @@
     "summary": "FDL Microservice",
     "start": "2026-03-20",
     "end": "2026-03-27",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Madhavi Karusala"
-  },
-  {
-    "key": "MMSPSC-15",
-    "summary": "Status Monitoring",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Madhavi Karusala"
   },
@@ -76,7 +67,7 @@
     "summary": "Login/Logout",
     "start": "2026-03-24",
     "end": "2026-03-31",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Madhavi Karusala"
   },
@@ -85,14 +76,95 @@
     "summary": "Station Layout",
     "start": "2026-03-27",
     "end": "2026-03-31",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Madhavi Karusala"
   },
   {
-    "key": "MMSPSC-10",
-    "summary": "SVC Transactions",
+    "key": "MMSPSC-15",
+    "summary": "Status Monitoring",
+    "start": "2026-03-24",
+    "end": "2026-04-10",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-9",
+    "summary": "QR Transactions",
     "start": "2026-04-01",
+    "end": "2026-04-10",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-19",
+    "summary": "Reports Feature",
+    "start": "2026-04-03",
+    "end": "2026-04-12",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-24",
+    "summary": "Summary Status",
+    "start": "2026-04-05",
+    "end": "2026-04-14",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-23",
+    "summary": "Send Command",
+    "start": "2026-04-07",
+    "end": "2026-04-16",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-26",
+    "summary": "Device Events",
+    "start": "2026-04-10",
+    "end": "2026-04-19",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-27",
+    "summary": "Transaction History",
+    "start": "2026-04-13",
+    "end": "2026-04-22",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-28",
+    "summary": "Traffic Info",
+    "start": "2026-04-16",
+    "end": "2026-04-25",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-25",
+    "summary": "Parameter Overview",
+    "start": "2026-04-19",
+    "end": "2026-04-28",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-29",
+    "summary": "Parameter Content",
+    "start": "2026-04-22",
     "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2,
@@ -101,105 +173,33 @@
   {
     "key": "MMSPSC-12",
     "summary": "AR Transactions",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 2,
+    "sprint": 3,
     "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-16",
     "summary": "Events Management",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 2,
+    "sprint": 3,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-10",
+    "summary": "SVC Transactions",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
     "assignee": "Madhavi Karusala"
   },
   {
     "key": "MMSPSC-18",
     "summary": "Commands Handling",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Madhavi Karusala"
-  },
-  {
-    "key": "MMSPSC-9",
-    "summary": "QR Transactions",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "Madhavi Karusala"
-  },
-  {
-    "key": "MMSPSC-19",
-    "summary": "Reports Feature",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "Madhavi Karusala"
-  },
-  {
-    "key": "MMSPSC-24",
-    "summary": "Summary Status",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "Madhavi Karusala"
-  },
-  {
-    "key": "MMSPSC-23",
-    "summary": "Send Command",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "Madhavi Karusala"
-  },
-  {
-    "key": "MMSPSC-26",
-    "summary": "Device Events",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "Madhavi Karusala"
-  },
-  {
-    "key": "MMSPSC-27",
-    "summary": "Transaction History",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "Madhavi Karusala"
-  },
-  {
-    "key": "MMSPSC-28",
-    "summary": "Traffic Info",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "Madhavi Karusala"
-  },
-  {
-    "key": "MMSPSC-25",
-    "summary": "Parameter Overview",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "Madhavi Karusala"
-  },
-  {
-    "key": "MMSPSC-29",
-    "summary": "Parameter Content",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",

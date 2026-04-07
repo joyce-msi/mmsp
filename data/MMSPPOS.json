@@ -36,6 +36,15 @@
     "assignee": "Jonalyn Salvador"
   },
   {
+    "key": "MMSPPOS-9",
+    "summary": "Components Integration - BRSJT",
+    "start": "2026-03-13",
+    "end": "2026-03-17",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
     "key": "MMSPPOS-13",
     "summary": "Components Integration - CSCRW components",
     "start": "2026-03-13",
@@ -81,11 +90,38 @@
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-9",
-    "summary": "Components Integration - BRSJT",
-    "start": "2026-03-13",
-    "end": "2026-03-17",
-    "status": "In Progress",
+    "key": "MMSPPOS-25",
+    "summary": "UI design - Lock/Unlock",
+    "start": "2026-03-17",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "christopher_LEE"
+  },
+  {
+    "key": "MMSPPOS-24",
+    "summary": "UI design - Logout",
+    "start": "2026-03-17",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "christopher_LEE"
+  },
+  {
+    "key": "MMSPPOS-91",
+    "summary": "UI design - PDU General Look and Feel",
+    "start": "2026-03-17",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "christopher_LEE"
+  },
+  {
+    "key": "MMSPPOS-27",
+    "summary": "UI design - Message Notifications",
+    "start": "2026-03-17",
+    "end": "2026-03-31",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
@@ -94,52 +130,7 @@
     "summary": "Testing and debugging support - SJT Card XML",
     "start": "2026-03-17",
     "end": "2026-03-20",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-21",
-    "summary": "UI design - Application loading",
-    "start": "2026-03-17",
-    "end": "2026-03-24",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-23",
-    "summary": "UI design - Login",
-    "start": "2026-03-17",
-    "end": "2026-03-24",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-15",
-    "summary": "Hardware Support - Receipt Printer",
-    "start": "2026-03-17",
-    "end": "2026-03-20",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-16",
-    "summary": "Hardware Support - PDU",
-    "start": "2026-03-17",
-    "end": "2026-03-20",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-20",
-    "summary": "UI design - Main Screen",
-    "start": "2026-03-17",
-    "end": "2026-03-24",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
@@ -148,97 +139,52 @@
     "summary": "UI design - Home Screen",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-24",
-    "summary": "UI design - Logout",
+    "key": "MMSPPOS-20",
+    "summary": "UI design - Main Screen",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-25",
-    "summary": "UI design - Lock/Unlock",
+    "key": "MMSPPOS-21",
+    "summary": "UI design - Application loading",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-27",
-    "summary": "UI design - Message Notifications",
+    "key": "MMSPPOS-23",
+    "summary": "UI design - Login",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-91",
-    "summary": "UI design - PDU General Look and Feel",
+    "key": "MMSPPOS-15",
+    "summary": "Hardware Support - Receipt Printer",
     "start": "2026-03-17",
-    "end": "2026-03-24",
-    "status": "To Do",
+    "end": "2026-03-31",
+    "status": "Done",
     "sprint": 1,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-56",
-    "summary": "SJT Analysis UI Design",
-    "start": "2026-03-24",
-    "end": "2026-03-27",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Jonalyn Salvador"
+    "assignee": "christopher_LEE"
   },
   {
     "key": "MMSPPOS-58",
     "summary": "SJT Analysis PDU Display",
     "start": "2026-03-24",
-    "end": "2026-03-27",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-57",
-    "summary": "SJT Analysis Processing, transaction generation, AR update",
-    "start": "2026-03-24",
-    "end": "2026-03-27",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-59",
-    "summary": "SJT Sale UI Design",
-    "start": "2026-03-24",
     "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-60",
-    "summary": "SJT Sale Processing, transaction generation, inventory update, AR update",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-61",
-    "summary": "SJT Sale Receipt",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
@@ -247,34 +193,52 @@
     "summary": "SJT Sale PDU Display",
     "start": "2026-03-24",
     "end": "2026-03-31",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-63",
-    "summary": "SJT Upgrade UI Design",
-    "start": "2026-03-27",
+    "key": "MMSPPOS-61",
+    "summary": "SJT Sale Receipt",
+    "start": "2026-03-24",
     "end": "2026-03-31",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-64",
-    "summary": "SJT Upgrade Processing, transaction generation, inventory update, AR update",
-    "start": "2026-03-27",
+    "key": "MMSPPOS-60",
+    "summary": "SJT Sale Processing, transaction generation, inventory update, AR update",
+    "start": "2026-03-24",
     "end": "2026-03-31",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-65",
-    "summary": "SJT Upgrade Receipt",
-    "start": "2026-03-27",
+    "key": "MMSPPOS-57",
+    "summary": "SJT Analysis Processing, transaction generation, AR update",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-59",
+    "summary": "SJT Sale UI Design",
+    "start": "2026-03-24",
     "end": "2026-03-31",
-    "status": "To Do",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-56",
+    "summary": "SJT Card Details Screen",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
@@ -283,508 +247,292 @@
     "summary": "SJT Upgrade PDU Display",
     "start": "2026-03-27",
     "end": "2026-03-31",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-10",
-    "summary": "Components Integration - BRSVC",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
+    "key": "MMSPPOS-65",
+    "summary": "SJT Upgrade Receipt",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-18",
-    "summary": "Hardware Support - CSCRW",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
+    "key": "MMSPPOS-64",
+    "summary": "SJT Upgrade Processing, transaction generation, inventory update, AR update",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-17",
-    "summary": "Hardware Support - Cash Drawer",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
+    "key": "MMSPPOS-63",
+    "summary": "SJT Upgrade UI Design",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1,
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-22",
-    "summary": "UI design - Device Status Display",
-    "start": "2026-04-01",
+    "key": "MMSPPOS-16",
+    "summary": "Hardware Support - PDU",
+    "start": "2026-03-17",
     "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-33",
-    "summary": "Testing and debugging support - SVC Card XML",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-36",
-    "summary": "SVC Analysis UI Design",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-37",
-    "summary": "SVC Analysis Processing, transaction generation, AR update",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-38",
-    "summary": "SVC Analysis Receipt",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-39",
-    "summary": "SVC Analysis PDU Display",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-40",
-    "summary": "SVC Sale UI Design",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-41",
-    "summary": "SVC Sale Processing, transaction generation, inventory update, AR update",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-42",
-    "summary": "SVC Sale Receipt",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-43",
-    "summary": "SVC Sale PDU Display",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-44",
-    "summary": "SVC Add Value UI Design",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-45",
-    "summary": "SVC Add Value Processing, transaction generation, inventory update, AR update",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-46",
-    "summary": "SVC Add Value Receipt",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-47",
-    "summary": "SVC Add Value PDU Display",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-48",
-    "summary": "SVC Upgrade UI Design",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-50",
-    "summary": "SVC Upgrade Receipt",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-51",
-    "summary": "SVC Upgrade PDU Display",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-52",
-    "summary": "SVC Add Product UI Design",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-49",
-    "summary": "SVC Upgrade Processing, transaction generation, inventory update, AR update",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-53",
-    "summary": "SVC Add Product Processing, transaction generation, inventory update, AR update",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-54",
-    "summary": "SVC Add Product Receipt",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-55",
-    "summary": "SVC Add Product PDU Display",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-28",
-    "summary": "Background processing - Status monitoring",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-29",
-    "summary": "Background processing - Device status update (UI)",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-30",
-    "summary": "Background processing - Parameter download",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-31",
-    "summary": "Background processing - Transaction upload",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-32",
-    "summary": "Background processing - Commands Processing",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
+    "assignee": "christopher_LEE"
   },
   {
     "key": "MMSPPOS-8",
     "summary": "Components Integration - BRQR",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-01",
+    "end": "2026-04-07",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-14",
     "summary": "Hardware Support - QR Reader",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-01",
+    "end": "2026-04-07",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-35",
     "summary": "Testing and debugging support - QR Ticket XML",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-03",
+    "end": "2026-04-09",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-67",
     "summary": "QR Ticket Analysis UI Design",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-03",
+    "end": "2026-04-09",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-68",
     "summary": "QR Ticket Analysis Processing, transaction generation, AR update",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-05",
+    "end": "2026-04-12",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-69",
     "summary": "QR Ticket Analysis PDU Display",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-07",
+    "end": "2026-04-12",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-70",
     "summary": "QR Ticket Sale UI Design",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
+    "start": "2026-04-07",
+    "end": "2026-04-14",
+    "status": "In Progress",
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-71",
     "summary": "QR Ticket Sale Processing, transaction generation, AR update",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-09",
+    "end": "2026-04-16",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-72",
     "summary": "QR Ticket Sale Receipt",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-11",
+    "end": "2026-04-17",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-73",
     "summary": "QR Ticket Sale PDU Display",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-11",
+    "end": "2026-04-17",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-74",
     "summary": "QR Ticket Upgrade UI Design",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-13",
+    "end": "2026-04-19",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-75",
     "summary": "QR Ticket Upgrade Processing, transaction generation, AR update",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-15",
+    "end": "2026-04-21",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-76",
     "summary": "QR Ticket Upgrade Receipt",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-17",
+    "end": "2026-04-22",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-77",
     "summary": "QR Ticket UpgradePDU Display",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-17",
+    "end": "2026-04-22",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-78",
     "summary": "Maintenance UI Design",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-19",
+    "end": "2026-04-24",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-79",
     "summary": "Maintenance Configuration Info Display",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-19",
+    "end": "2026-04-24",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-80",
     "summary": "Maintenance Parameters Information",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-20",
+    "end": "2026-04-25",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-81",
     "summary": "Maintenance CSCRW Test",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-21",
+    "end": "2026-04-26",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-82",
     "summary": "Maintenance PDU Test",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-22",
+    "end": "2026-04-27",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-83",
     "summary": "Maintenance Receipt Printer Test",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-23",
+    "end": "2026-04-28",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-84",
     "summary": "Maintenance QR Scanner Test",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-23",
+    "end": "2026-04-28",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-85",
     "summary": "Maintenance SVC XML Save to File",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-24",
+    "end": "2026-04-29",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-86",
     "summary": "Maintenance SJT XML Save to File",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-24",
+    "end": "2026-04-29",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-87",
     "summary": "Maintenance File Export (transactions, parameters, logs)",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-25",
+    "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-88",
     "summary": "Maintenance Force upload AR",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-26",
+    "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
   {
     "key": "MMSPPOS-89",
     "summary": "Maintenance Access to OS",
+    "start": "2026-04-27",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-90",
+    "summary": "Maintenance Shutdown",
+    "start": "2026-04-28",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-10",
+    "summary": "Components Integration - BRSVC",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
@@ -792,8 +540,260 @@
     "assignee": "Jonalyn Salvador"
   },
   {
-    "key": "MMSPPOS-90",
-    "summary": "Maintenance Shutdown",
+    "key": "MMSPPOS-18",
+    "summary": "Hardware Support - CSCRW",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-17",
+    "summary": "Hardware Support - Cash Drawer",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-22",
+    "summary": "UI design - Device Status Display",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-33",
+    "summary": "Testing and debugging support - SVC Card XML",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-36",
+    "summary": "SVC Analysis UI Design",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-37",
+    "summary": "SVC Analysis Processing, transaction generation, AR update",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-38",
+    "summary": "SVC Analysis Receipt",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-39",
+    "summary": "SVC Analysis PDU Display",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-40",
+    "summary": "SVC Sale UI Design",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-41",
+    "summary": "SVC Sale Processing, transaction generation, inventory update, AR update",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-42",
+    "summary": "SVC Sale Receipt",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-43",
+    "summary": "SVC Sale PDU Display",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-44",
+    "summary": "SVC Add Value UI Design",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-45",
+    "summary": "SVC Add Value Processing, transaction generation, inventory update, AR update",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-46",
+    "summary": "SVC Add Value Receipt",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-47",
+    "summary": "SVC Add Value PDU Display",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-48",
+    "summary": "SVC Upgrade UI Design",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-50",
+    "summary": "SVC Upgrade Receipt",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-51",
+    "summary": "SVC Upgrade PDU Display",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-52",
+    "summary": "SVC Add Product UI Design",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-49",
+    "summary": "SVC Upgrade Processing, transaction generation, inventory update, AR update",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-53",
+    "summary": "SVC Add Product Processing, transaction generation, inventory update, AR update",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-54",
+    "summary": "SVC Add Product Receipt",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-55",
+    "summary": "SVC Add Product PDU Display",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-28",
+    "summary": "Background processing - Status monitoring",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-29",
+    "summary": "Background processing - Device status update (UI)",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-30",
+    "summary": "Background processing - Parameter download",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-31",
+    "summary": "Background processing - Transaction upload",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-32",
+    "summary": "Background processing - Commands Processing",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",

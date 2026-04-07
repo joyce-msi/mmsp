@@ -57,7 +57,7 @@
     "key": "MMSPHHT-5",
     "summary": "[UI] Device info",
     "start": "2026-03-11",
-    "end": "2026-02-23",
+    "end": "2026-03-31",
     "status": "Done",
     "sprint": 1,
     "assignee": "TAN Yong Yew"
@@ -66,7 +66,7 @@
     "key": "MMSPHHT-6",
     "summary": "[UI] Loading Screen",
     "start": "2026-03-11",
-    "end": "2026-02-23",
+    "end": "2026-03-31",
     "status": "Done",
     "sprint": 1,
     "assignee": "TAN Yong Yew"
@@ -75,14 +75,14 @@
     "key": "MMSPHHT-7",
     "summary": "[UI] Inquiry Details (Tabs: Personal Info to Validation)",
     "start": "2026-03-11",
-    "end": "2026-02-23",
+    "end": "2026-03-31",
     "status": "Done",
     "sprint": 1,
     "assignee": "TAN Yong Yew"
   },
   {
     "key": "MMSPHHT-8",
-    "summary": "[UI] SVC Sales (Main to Sale Issuance Completion)",
+    "summary": " [UI] SJT & SVC Sales (Main to Sale Issuance Completion)",
     "start": "2026-03-11",
     "end": "2026-03-25",
     "status": "Done",
@@ -129,37 +129,10 @@
     "key": "MMSPHHT-15",
     "summary": "[UI] Mode Selection",
     "start": "2026-03-11",
-    "end": "2026-03-09",
+    "end": "2026-03-31",
     "status": "Done",
     "sprint": 1,
     "assignee": "TAN Yong Yew"
-  },
-  {
-    "key": "MMSPHHT-26",
-    "summary": "[SJT] Reader & Common shared library integration",
-    "start": "2026-03-11",
-    "end": "2026-03-09",
-    "status": "Done",
-    "sprint": 1,
-    "assignee": "Chua Yeow Hon"
-  },
-  {
-    "key": "MMSPHHT-25",
-    "summary": "[SJT] Ultralight C R/W development",
-    "start": "2026-03-11",
-    "end": "2026-03-23",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Liu Yong"
-  },
-  {
-    "key": "MMSPHHT-31",
-    "summary": "[Pending SDK] Hardware Management",
-    "start": "2026-03-11",
-    "end": "2026-03-23",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Chua Yeow Hon"
   },
   {
     "key": "MMSPHHT-32",
@@ -171,22 +144,22 @@
     "assignee": "TAN Yong Yew"
   },
   {
-    "key": "MMSPHHT-34",
-    "summary": "Component(DeviceMgmt) Lib Integration",
+    "key": "MMSPHHT-26",
+    "summary": "[SJT] Reader & Common shared library integration",
     "start": "2026-03-11",
-    "end": "2026-02-23",
-    "status": "To Do",
+    "end": "2026-03-31",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Chua Yeow Hon"
   },
   {
-    "key": "MMSPHHT-36",
-    "summary": "[HW Integration] SVC Hardware interface development",
+    "key": "MMSPHHT-25",
+    "summary": "[SJT] Ultralight C R/W development",
     "start": "2026-03-11",
     "end": "2026-03-23",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
-    "assignee": "Chua Yeow Hon"
+    "assignee": "Liu Yong"
   },
   {
     "key": "MMSPHHT-38",
@@ -196,6 +169,24 @@
     "status": "Done",
     "sprint": 1,
     "assignee": "Tan Kuan Feng"
+  },
+  {
+    "key": "MMSPHHT-36",
+    "summary": "[HW Integration] SVC Hardware interface development",
+    "start": "2026-03-11",
+    "end": "2026-03-23",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "Chua Yeow Hon"
+  },
+  {
+    "key": "MMSPHHT-31",
+    "summary": "[Admin] Hardware Management",
+    "start": "2026-03-11",
+    "end": "2026-03-23",
+    "status": "In Progress",
+    "sprint": 1,
+    "assignee": "Chua Yeow Hon"
   },
   {
     "key": "MMSPHHT-33",
@@ -208,19 +199,37 @@
   },
   {
     "key": "MMSPHHT-37",
-    "summary": "[UI] Toast User Feedback",
+    "summary": "[UI] Toast User Feedback Template",
     "start": "2026-03-11",
     "end": "2026-04-06",
-    "status": "In Progress",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "Chua Yeow Hon"
+  },
+  {
+    "key": "MMSPHHT-34",
+    "summary": "Component(DeviceMgmt) Lib Integration",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Chua Yeow Hon"
   },
   {
     "key": "MMSPHHT-24",
     "summary": "[UI, Status] System Monitor",
+    "start": "2026-03-09",
+    "end": "2026-04-06",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "Tan Kuan Feng"
+  },
+  {
+    "key": "MMSPHHT-17",
+    "summary": "[UI] SVC Upgrade",
     "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
+    "end": "2026-04-06",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Tan Kuan Feng"
   },
@@ -228,26 +237,17 @@
     "key": "MMSPHHT-22",
     "summary": "Transaction Management",
     "start": "2026-04-01",
-    "end": "2026-04-30",
+    "end": "2026-04-06",
     "status": "To Do",
     "sprint": 2,
     "assignee": "TAN Yong Yew"
   },
   {
-    "key": "MMSPHHT-17",
-    "summary": "[UI] SVC Upgrade",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Tan Kuan Feng"
-  },
-  {
     "key": "MMSPHHT-35",
-    "summary": "[HW Integration] QR Development",
+    "summary": "[HW Integration] QR Scanner Development",
     "start": "2026-04-01",
     "end": "2026-04-06",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Tan Kuan Feng"
   },
@@ -274,5 +274,50 @@
     "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2
+  },
+  {
+    "key": "MMSPHHT-39",
+    "summary": "[HW Integration] SJT Hardware interface development",
+    "start": "2026-03-11",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 4,
+    "assignee": "TAN Yong Yew"
+  },
+  {
+    "key": "MMSPHHT-40",
+    "summary": "[UI] SJT Upgrade",
+    "start": "2026-03-11",
+    "end": "2026-04-06",
+    "status": "Done",
+    "sprint": 4,
+    "assignee": "Tan Kuan Feng"
+  },
+  {
+    "key": "MMSPHHT-41",
+    "summary": "[UI] QR Upgrade",
+    "start": "2026-03-11",
+    "end": "2026-04-06",
+    "status": "Done",
+    "sprint": 4,
+    "assignee": "Tan Kuan Feng"
+  },
+  {
+    "key": "MMSPHHT-42",
+    "summary": "Maintenance Menu (Device Testing)",
+    "start": "2026-03-11",
+    "end": "2026-04-06",
+    "status": "To Do",
+    "sprint": 4,
+    "assignee": "Ow Yong Yew Chin Rylan"
+  },
+  {
+    "key": "MMSPHHT-43",
+    "summary": "[Component Integration] SJT Entry/Exit process & confirmation",
+    "start": "2026-03-11",
+    "end": "2026-04-06",
+    "status": "In Progress",
+    "sprint": 4,
+    "assignee": "TAN Yong Yew"
   }
 ]

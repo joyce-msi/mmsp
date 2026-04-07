@@ -4,7 +4,7 @@
     "summary": "Developer - local setup - AMQ , Postgresql , Keycloak",
     "start": "2026-03-11",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1
   },
   {
@@ -30,27 +30,9 @@
     "summary": "CICD Pipeline for microservices",
     "start": "2026-03-11",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "swat_mooi_low"
-  },
-  {
-    "key": "MN-22",
-    "summary": "Parameter spec",
-    "start": "2026-03-11",
-    "end": "2026-03-17",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Jyothi_MADDALI"
-  },
-  {
-    "key": "MN-23",
-    "summary": "Transaction spec",
-    "start": "2026-03-11",
-    "end": "2026-03-17",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Jyothi_MADDALI"
   },
   {
     "key": "MN-56",
@@ -69,15 +51,6 @@
     "status": "Done",
     "sprint": 1,
     "assignee": "Keshav Natarajan"
-  },
-  {
-    "key": "MN-85",
-    "summary": "MCS-Station Layout",
-    "start": "2026-03-11",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Gu Chao"
   },
   {
     "key": "MN-11",
@@ -116,24 +89,6 @@
     "assignee": "stevenleeyongwah"
   },
   {
-    "key": "MN-13",
-    "summary": "Parameter Download from CCHS to CCS (Blob to JSON convert)",
-    "start": "2026-03-11",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Henny Chendawan"
-  },
-  {
-    "key": "MN-1",
-    "summary": "CCS-Parameters (DCD , Global)",
-    "start": "2026-03-13",
-    "end": "2026-03-20",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "bhuvaneswari_KOOCHU"
-  },
-  {
     "key": "MN-3",
     "summary": "CCS-Transactions (SJT)",
     "start": "2026-03-13",
@@ -143,29 +98,11 @@
     "assignee": "stevenleeyongwah"
   },
   {
-    "key": "MN-42",
-    "summary": "DB Table Clean - Parameter Tables",
-    "start": "2026-03-13",
-    "end": "2026-03-20",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "bhuvaneswari_KOOCHU"
-  },
-  {
-    "key": "MN-5",
-    "summary": "CCS-PORTAL (Parameter Mgmt)",
-    "start": "2026-03-17",
-    "end": "2026-03-24",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "bhuvaneswari_KOOCHU"
-  },
-  {
     "key": "MN-46",
     "summary": "CCS - Approve  , ReDistribute Parameters",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "bhuvaneswari_KOOCHU"
   },
@@ -174,7 +111,7 @@
     "summary": "CCS - Parameter Distribution History - sent , Recieved",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "bhuvaneswari_KOOCHU"
   },
@@ -188,42 +125,6 @@
     "assignee": "stevenleeyongwah"
   },
   {
-    "key": "MN-91",
-    "summary": "MCS-Login/Logout",
-    "start": "2026-03-18",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Gu Chao"
-  },
-  {
-    "key": "MN-90",
-    "summary": "MCS-Parameter Overview",
-    "start": "2026-03-18",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Gu Chao"
-  },
-  {
-    "key": "MN-17",
-    "summary": "CCS -  Report Spec",
-    "start": "2026-03-20",
-    "end": "2026-03-27",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Prakash HN"
-  },
-  {
-    "key": "MN-35",
-    "summary": "Design Enhancement PDMS - sent PDT to Stations (not to ECS)",
-    "start": "2026-03-27",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "bhuvaneswari_KOOCHU"
-  },
-  {
     "key": "MN-31",
     "summary": "Code merge from RTS - Upgrade JDK 21 , Spring Boot 3 , Hazelcast",
     "start": "2026-03-27",
@@ -233,179 +134,305 @@
     "assignee": "stevenleeyongwah"
   },
   {
-    "key": "MN-50",
-    "summary": "Design Workshop slides from RTS - for MMSP Reference",
-    "start": "2026-03-27",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "priya thota"
-  },
-  {
-    "key": "MN-53",
-    "summary": "API Gateway",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
+    "key": "MN-22",
+    "summary": "Parameter spec",
+    "start": "2026-03-11",
+    "end": "2026-04-10",
+    "status": "In Progress",
     "sprint": 2,
-    "assignee": "priya thota"
+    "assignee": "Jyothi_MADDALI"
   },
   {
-    "key": "MN-18",
-    "summary": "CCS - Reports - CBT, SJT",
-    "start": "2026-04-01",
+    "key": "MN-23",
+    "summary": "Transaction spec",
+    "start": "2026-03-11",
+    "end": "2026-04-10",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Jyothi_MADDALI"
+  },
+  {
+    "key": "MN-1",
+    "summary": "CCS-Parameters (DCD , Global)",
+    "start": "2026-03-13",
+    "end": "2026-04-03",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "bhuvaneswari_KOOCHU"
+  },
+  {
+    "key": "MN-42",
+    "summary": "DB Table Clean - Parameter Tables",
+    "start": "2026-03-13",
     "end": "2026-04-30",
-    "status": "To Do",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "bhuvaneswari_KOOCHU"
+  },
+  {
+    "key": "MN-5",
+    "summary": "CCS-PORTAL (Parameter Mgmt)",
+    "start": "2026-03-17",
+    "end": "2026-04-03",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "bhuvaneswari_KOOCHU"
+  },
+  {
+    "key": "MN-91",
+    "summary": "MCS-Login/Logout",
+    "start": "2026-03-18",
+    "end": "2026-04-10",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Gu Chao"
+  },
+  {
+    "key": "MN-90",
+    "summary": "MCS-Parameter Overview",
+    "start": "2026-03-18",
+    "end": "2026-04-10",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Gu Chao"
+  },
+  {
+    "key": "MN-17",
+    "summary": "CCS -  Report Spec",
+    "start": "2026-03-20",
+    "end": "2026-04-10",
+    "status": "In Progress",
     "sprint": 2,
     "assignee": "Prakash HN"
   },
   {
-    "key": "MN-32",
-    "summary": "Code merge from RTS - Exceptional scenarios - AMQ Down , DB Down",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
+    "key": "MN-35",
+    "summary": "Design Enhancement PDMS - sent PDT to Stations (not to ECS)",
+    "start": "2026-03-27",
+    "end": "2026-04-10",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "bhuvaneswari_KOOCHU"
+  },
+  {
+    "key": "MN-50",
+    "summary": "Design Workshop slides from RTS - for MMSP Reference",
+    "start": "2026-03-27",
+    "end": "2026-04-10",
     "status": "To Do",
+    "sprint": 2,
+    "assignee": "priya thota"
+  },
+  {
+    "key": "MN-58",
+    "summary": "Transaction Upload from CCS to CCHS AF - KT from Henny",
+    "start": "2026-04-01",
+    "end": "2026-04-07",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "Henny Chendawan"
+  },
+  {
+    "key": "MN-57",
+    "summary": "Parameter Download from CCHS to CCS - CCHS AF   - KT from Henny",
+    "start": "2026-04-01",
+    "end": "2026-04-07",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "Henny Chendawan"
+  },
+  {
+    "key": "MN-13",
+    "summary": "Parameter Download from CCHS to CCS (Blob to JSON convert)",
+    "start": "2026-04-01",
+    "end": "2026-04-10",
+    "status": "In Progress",
     "sprint": 2,
     "assignee": "stevenleeyongwah"
   },
   {
-    "key": "MN-86",
-    "summary": "MCS-Summary Status",
+    "key": "MN-14",
+    "summary": "Transaction Upload from CCS to CCHS (JSON to Blob convert )",
     "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Gu Chao"
-  },
-  {
-    "key": "MN-84",
-    "summary": "MCS-System Map",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Gu Chao"
-  },
-  {
-    "key": "MN-33",
-    "summary": "Code merge from RTS - Non Functional Performance",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
+    "end": "2026-04-10",
+    "status": "In Progress",
     "sprint": 2,
     "assignee": "stevenleeyongwah"
   },
   {
-    "key": "MN-88",
-    "summary": "MCS-Device Events",
+    "key": "MN-87",
+    "summary": "MCS-Detail Device Status",
     "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
+    "end": "2026-04-10",
+    "status": "In Progress",
     "sprint": 2,
     "assignee": "Gu Chao"
   },
   {
-    "key": "MN-34",
-    "summary": "Code Merge from RTS - SSDLC - VAPT Fixes",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
+    "key": "MN-52",
+    "summary": "Transaction - Validation Rules",
+    "start": "2026-04-03",
+    "end": "2026-04-12",
+    "status": "In Progress",
     "sprint": 2,
     "assignee": "stevenleeyongwah"
+  },
+  {
+    "key": "MN-89",
+    "summary": "MCS-Send Command",
+    "start": "2026-04-03",
+    "end": "2026-04-12",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Gu Chao"
   },
   {
     "key": "MN-44",
     "summary": "DB Table clean - Transactions",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
+    "start": "2026-04-05",
+    "end": "2026-04-14",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "stevenleeyongwah"
+  },
+  {
+    "key": "MN-6",
+    "summary": "CCS-PORTAL (Main portal) - User Management",
+    "start": "2026-04-07",
+    "end": "2026-04-16",
+    "status": "In Progress",
     "sprint": 2,
     "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-51",
     "summary": "QR Design Workshop Slides",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
+    "start": "2026-04-07",
+    "end": "2026-04-14",
     "status": "To Do",
     "sprint": 2,
     "assignee": "priya thota"
   },
   {
-    "key": "MN-14",
-    "summary": "Transaction Upload from CCS to CCHS (JSON to Blob convert )",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
+    "key": "MN-7",
+    "summary": "QRS - QR Validator - Online",
+    "start": "2026-04-09",
+    "end": "2026-04-18",
     "status": "To Do",
     "sprint": 2,
-    "assignee": "bhuvaneswari_KOOCHU"
-  },
-  {
-    "key": "MN-6",
-    "summary": "CCS-PORTAL (Main portal) - User Management",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "In Progress",
-    "sprint": 2,
-    "assignee": "stevenleeyongwah"
+    "assignee": "priya thota"
   },
   {
     "key": "MN-8",
     "summary": "TG-PORTAL - Parameters",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-10",
+    "end": "2026-04-19",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-10",
     "summary": "TGS - Ticket Generator  - Online ",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-11",
+    "end": "2026-04-20",
     "status": "To Do",
-    "sprint": 3,
-    "assignee": "stevenleeyongwah"
-  },
-  {
-    "key": "MN-87",
-    "summary": "MCS-Detail Device Status",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "Gu Chao"
-  },
-  {
-    "key": "MN-7",
-    "summary": "QRS - QR Validator - Online",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "stevenleeyongwah"
-  },
-  {
-    "key": "MN-89",
-    "summary": "MCS-Send Command",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "Gu Chao"
+    "sprint": 2,
+    "assignee": "priya thota"
   },
   {
     "key": "MN-9",
     "summary": "QR-PORTAL - Transactions ",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-13",
+    "end": "2026-04-22",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
+    "assignee": "priya thota"
+  },
+  {
+    "key": "MN-38",
+    "summary": "code merge from RTS - Exceptional scenarios - Cannot generate QR",
+    "start": "2026-04-13",
+    "end": "2026-04-22",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "stevenleeyongwah"
+  },
+  {
+    "key": "MN-16",
+    "summary": "CCS - Parameters - SC Application Parameter",
+    "start": "2026-04-13",
+    "end": "2026-04-22",
+    "status": "To Do",
+    "sprint": 2,
     "assignee": "bhuvaneswari_KOOCHU"
+  },
+  {
+    "key": "MN-48",
+    "summary": "QR Exit , Under Fare Upgrade , Entry Exit Mismatch",
+    "start": "2026-04-16",
+    "end": "2026-04-25",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "stevenleeyongwah"
+  },
+  {
+    "key": "MN-29",
+    "summary": "Job Management - PreEOD, Housekeeping , Partitioning",
+    "start": "2026-04-19",
+    "end": "2026-04-28",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-19",
     "summary": "Reports - QR , Recon",
+    "start": "2026-04-19",
+    "end": "2026-04-28",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Prakash HN"
+  },
+  {
+    "key": "MN-36",
+    "summary": "Missing Txn Handling - SC Enhancement",
+    "start": "2026-04-22",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MN-60",
+    "summary": "KT from Prakash/Edmund - Tableau Report setup",
+    "start": "2026-04-22",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Prakash HN"
+  },
+  {
+    "key": "MN-30",
+    "summary": "stock Management",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "In Progress",
+    "sprint": 3,
+    "assignee": "stevenleeyongwah"
+  },
+  {
+    "key": "MN-53",
+    "summary": "API Gateway",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "In Progress",
+    "sprint": 3,
+    "assignee": "stevenleeyongwah"
+  },
+  {
+    "key": "MN-18",
+    "summary": "CCS - Reports - CBT, SJT",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
@@ -413,8 +440,8 @@
     "assignee": "Prakash HN"
   },
   {
-    "key": "MN-38",
-    "summary": "code merge from RTS - Exceptional scenarios - Cannot generate QR",
+    "key": "MN-32",
+    "summary": "Code merge from RTS - Exceptional scenarios - AMQ Down , DB Down",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
@@ -422,17 +449,35 @@
     "assignee": "stevenleeyongwah"
   },
   {
-    "key": "MN-29",
-    "summary": "Job Management - PreEOD, Housekeeping , Partitioning",
+    "key": "MN-86",
+    "summary": "MCS-Summary Status",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
     "sprint": 3,
-    "assignee": "bhuvaneswari_KOOCHU"
+    "assignee": "Gu Chao"
   },
   {
-    "key": "MN-48",
-    "summary": "QR Exit , Under Fare Upgrade , Entry Exit Mismatch",
+    "key": "MN-85",
+    "summary": "MCS-Station Layout",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Gu Chao"
+  },
+  {
+    "key": "MN-84",
+    "summary": "MCS-System Map",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Gu Chao"
+  },
+  {
+    "key": "MN-33",
+    "summary": "Code merge from RTS - Non Functional Performance",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
@@ -440,17 +485,17 @@
     "assignee": "stevenleeyongwah"
   },
   {
-    "key": "MN-30",
-    "summary": "stock Management",
+    "key": "MN-88",
+    "summary": "MCS-Device Events",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
     "sprint": 3,
-    "assignee": "bhuvaneswari_KOOCHU"
+    "assignee": "Gu Chao"
   },
   {
-    "key": "MN-52",
-    "summary": "Transaction - Validation Rules",
+    "key": "MN-34",
+    "summary": "Code Merge from RTS - SSDLC - VAPT Fixes",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",

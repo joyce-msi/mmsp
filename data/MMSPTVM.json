@@ -4,7 +4,7 @@
     "summary": "CHS driver development",
     "start": "2026-03-11",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "mingjie_LIU"
   },
@@ -13,7 +13,7 @@
     "summary": "UPS driver development",
     "start": "2026-03-11",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "rui_hui_TOH"
   },
@@ -22,7 +22,7 @@
     "summary": "Printer driver development",
     "start": "2026-03-11",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "rui_hui_TOH"
   },
@@ -31,16 +31,7 @@
     "summary": "OD Driver",
     "start": "2026-03-11",
     "end": "2026-03-17",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "rui_hui_TOH"
-  },
-  {
-    "key": "MMSPTVM-65",
-    "summary": "BNA Module",
-    "start": "2026-03-11",
-    "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "rui_hui_TOH"
   },
@@ -49,7 +40,16 @@
     "summary": "IO driver development",
     "start": "2026-03-11",
     "end": "2026-03-17",
-    "status": "To Do",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-65",
+    "summary": "BNA Module",
+    "start": "2026-03-11",
+    "end": "2026-03-17",
+    "status": "Done",
     "sprint": 1,
     "assignee": "rui_hui_TOH"
   },
@@ -58,7 +58,7 @@
     "summary": "IO Module",
     "start": "2026-03-11",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "rui_hui_TOH"
   },
@@ -67,7 +67,7 @@
     "summary": "Application Boot Up",
     "start": "2026-03-13",
     "end": "2026-03-20",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "mingjie_LIU"
   },
@@ -76,7 +76,7 @@
     "summary": "BNA Connection status / Error display",
     "start": "2026-03-13",
     "end": "2026-03-20",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "rui_hui_TOH"
   },
@@ -85,7 +85,7 @@
     "summary": "BNA Initialization / Dejam",
     "start": "2026-03-13",
     "end": "2026-03-20",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "rui_hui_TOH"
   },
@@ -94,25 +94,7 @@
     "summary": "SJT Module",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "mingjie_LIU"
-  },
-  {
-    "key": "MMSPTVM-22",
-    "summary": "SJT UI design and logic processing",
-    "start": "2026-03-17",
-    "end": "2026-03-24",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "mingjie_LIU"
-  },
-  {
-    "key": "MMSPTVM-23",
-    "summary": "SJT Cash payment handling",
-    "start": "2026-03-17",
-    "end": "2026-03-24",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "mingjie_LIU"
   },
@@ -121,7 +103,25 @@
     "summary": "SJT Ticket issuing",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "To Do",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "mingjie_LIU"
+  },
+  {
+    "key": "MMSPTVM-23",
+    "summary": "SJT Cash payment handling",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "mingjie_LIU"
+  },
+  {
+    "key": "MMSPTVM-22",
+    "summary": "SJT UI design and logic processing",
+    "start": "2026-03-17",
+    "end": "2026-03-24",
+    "status": "Done",
     "sprint": 1,
     "assignee": "mingjie_LIU"
   },
@@ -130,7 +130,52 @@
     "summary": "SJT Receipt print",
     "start": "2026-03-17",
     "end": "2026-03-24",
-    "status": "To Do",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-74",
+    "summary": "CHS Module",
+    "start": "2026-03-24",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "mingjie_LIU"
+  },
+  {
+    "key": "MMSPTVM-75",
+    "summary": "CHS UI design and logic processing",
+    "start": "2026-03-24",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "mingjie_LIU"
+  },
+  {
+    "key": "MMSPTVM-78",
+    "summary": "CHS Initialization / Dejam",
+    "start": "2026-03-24",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-76",
+    "summary": "CHS information display",
+    "start": "2026-03-24",
+    "end": "2026-03-31",
+    "status": "Done",
+    "sprint": 1,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-77",
+    "summary": "CHS Connection status / Error display",
+    "start": "2026-03-24",
+    "end": "2026-03-31",
+    "status": "Done",
     "sprint": 1,
     "assignee": "rui_hui_TOH"
   },
@@ -140,180 +185,14 @@
     "start": "2026-03-17",
     "end": "2026-03-24",
     "status": "To Do",
-    "sprint": 1,
-    "assignee": "rui_hui_TOH"
-  },
-  {
-    "key": "MMSPTVM-74",
-    "summary": "CHS Module",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "mingjie_LIU"
-  },
-  {
-    "key": "MMSPTVM-75",
-    "summary": "CHS UI design and logic processing",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "mingjie_LIU"
-  },
-  {
-    "key": "MMSPTVM-76",
-    "summary": "CHS information display",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "rui_hui_TOH"
-  },
-  {
-    "key": "MMSPTVM-77",
-    "summary": "CHS Connection status / Error display",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "rui_hui_TOH"
-  },
-  {
-    "key": "MMSPTVM-78",
-    "summary": "CHS Initialization / Dejam",
-    "start": "2026-03-24",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "rui_hui_TOH"
-  },
-  {
-    "key": "MMSPTVM-31",
-    "summary": "SVC Module",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-71",
-    "summary": "Recycler reload / AR reset",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-72",
-    "summary": "Change note box",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-79",
-    "summary": "CHS Hardware status",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-80",
-    "summary": "Coin acceptance test",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-81",
-    "summary": "Replenish change hoppers",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-82",
-    "summary": "Dump change hoppers",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-83",
-    "summary": "Replenish recycle hoppers",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-32",
-    "summary": "SVC UI design and logic processing",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-33",
-    "summary": "SVC Cash payment handling",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-34",
-    "summary": "SVC issuing",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-35",
-    "summary": "SVC information query",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-36",
-    "summary": "SVC Top-up",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-39",
-    "summary": "SVC Receipt print",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPTVM-2",
-    "summary": "SVC driver development",
-    "start": "2026-04-01",
-    "end": "2026-04-30",
-    "status": "To Do",
     "sprint": 2,
-    "assignee": "mingjie_LIU"
+    "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-8",
     "summary": "Reader component development",
     "start": "2026-04-01",
-    "end": "2026-04-30",
+    "end": "2026-04-14",
     "status": "To Do",
     "sprint": 2,
     "assignee": "mingjie_LIU"
@@ -322,76 +201,238 @@
     "key": "MMSPTVM-14",
     "summary": "Reader Driver",
     "start": "2026-04-01",
-    "end": "2026-04-30",
+    "end": "2026-04-10",
     "status": "To Do",
-    "sprint": 2
+    "sprint": 2,
+    "assignee": "mingjie_LIU"
   },
   {
     "key": "MMSPTVM-13",
     "summary": "QR Scanner Driver",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-01",
+    "end": "2026-04-10",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-114",
+    "summary": "Reader Component Integration",
+    "start": "2026-04-01",
+    "end": "2026-04-14",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-115",
+    "summary": "Ticket Issue handling",
+    "start": "2026-04-01",
+    "end": "2026-04-14",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-116",
+    "summary": "Parameter Component Integration",
+    "start": "2026-04-01",
+    "end": "2026-04-14",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-117",
+    "summary": "SJT BR integration",
+    "start": "2026-04-01",
+    "end": "2026-04-14",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-53",
+    "summary": "Login Module",
+    "start": "2026-04-07",
+    "end": "2026-04-17",
+    "status": "To Do",
+    "sprint": 2,
     "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-44",
     "summary": "QR Tickets Module",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-10",
+    "end": "2026-04-20",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 2,
+    "assignee": "mingjie_LIU"
+  },
+  {
+    "key": "MMSPTVM-54",
+    "summary": "Login UI design and logic processing",
+    "start": "2026-04-10",
+    "end": "2026-04-20",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-45",
     "summary": "QR Tickets UI design and logic processing",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-14",
+    "end": "2026-04-24",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 2,
+    "assignee": "mingjie_LIU"
   },
   {
     "key": "MMSPTVM-46",
     "summary": "QR Tickets Cash payment handling",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-17",
+    "end": "2026-04-27",
     "status": "To Do",
-    "sprint": 3
+    "sprint": 2,
+    "assignee": "mingjie_LIU"
   },
   {
     "key": "MMSPTVM-47",
     "summary": "QR tickets print",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
+    "start": "2026-04-21",
+    "end": "2026-04-30",
     "status": "To Do",
-    "sprint": 3,
+    "sprint": 2,
     "assignee": "rui_hui_TOH"
   },
   {
     "key": "MMSPTVM-49",
     "summary": "QR ticket query",
+    "start": "2026-04-24",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "mingjie_LIU"
+  },
+  {
+    "key": "MMSPTVM-31",
+    "summary": "SVC Module",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
     "sprint": 3
   },
   {
-    "key": "MMSPTVM-53",
-    "summary": "Login Module",
+    "key": "MMSPTVM-71",
+    "summary": "Recycler reload / AR reset",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
-    "sprint": 3,
-    "assignee": "rui_hui_TOH"
+    "sprint": 3
   },
   {
-    "key": "MMSPTVM-54",
-    "summary": "Login UI design and logic processing",
+    "key": "MMSPTVM-72",
+    "summary": "Change note box",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPTVM-79",
+    "summary": "CHS Hardware status",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPTVM-80",
+    "summary": "Coin acceptance test",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPTVM-81",
+    "summary": "Replenish change hoppers",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPTVM-82",
+    "summary": "Dump change hoppers",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPTVM-83",
+    "summary": "Replenish recycle hoppers",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPTVM-32",
+    "summary": "SVC UI design and logic processing",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPTVM-33",
+    "summary": "SVC Cash payment handling",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPTVM-34",
+    "summary": "SVC issuing",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPTVM-35",
+    "summary": "SVC information query",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPTVM-36",
+    "summary": "SVC Top-up",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPTVM-39",
+    "summary": "SVC Receipt print",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPTVM-2",
+    "summary": "SVC driver development",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
     "sprint": 3,
-    "assignee": "rui_hui_TOH"
+    "assignee": "mingjie_LIU"
   }
 ]

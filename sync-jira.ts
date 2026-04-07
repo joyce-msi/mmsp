@@ -131,7 +131,7 @@ function buildSprintMap(issues: JiraIssue[]): Map<number, number> {
 }
 
 function extractSprintNumber(issue: JiraIssue, sprintMap: Map<number, number>): number {
-  // 1. Check labels (e.g. "sprint-1-sjt-march", "sprint-2-svc-april")
+  // 1. Check labels (e.g. "sprint-1-sjt-march", "sprint-2-qr-april")
   const labels = issue.fields.labels || [];
   for (const label of labels) {
     const match = label.match(/^sprint-(\d+)/i);

@@ -13,8 +13,8 @@ const TOTAL_DAYS  = Math.round((CHART_END.getTime() - CHART_START.getTime()) / 8
 
 const sprintConfig = {
   1: { label: "Sprint 1 – SJT March", color: "#6366f1", bg: "#1e1b4b", range: "Mar 11 – Mar 31" },
-  2: { label: "Sprint 2 – SVC April", color: "#0ea5e9", bg: "#0c2a3f", range: "Apr 1 – Apr 30" },
-  3: { label: "Sprint 3 – QR May", color: "#10b981", bg: "#052e1e", range: "May 1 – May 29" },
+  2: { label: "Sprint 2 – QR April", color: "#0ea5e9", bg: "#0c2a3f", range: "Apr 1 – Apr 30" },
+  3: { label: "Sprint 3 – SVC May", color: "#10b981", bg: "#052e1e", range: "May 1 – May 29" },
   4: { label: "Sprint 4", color: "#f59e0b", bg: "#2a1f0c", range: "Jun+" },
 } as Record<number, { label: string; color: string; bg: string; range: string }>;
 
@@ -719,7 +719,7 @@ export default function GanttChart() {
       <div style={{ marginBottom: 20, display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
         <div>
           <h1 style={{ margin: "0 0 4px", fontSize: 20, fontWeight: 700, color: "#f8fafc" }}>MMSP — Development Gantt Chart</h1>
-          <p style={{ margin: 0, fontSize: 13, color: "#64748b" }}>Sprint 1 SJT (Mar) · Sprint 2 SVC (Apr) · Sprint 3 QR (May)</p>
+          <p style={{ margin: 0, fontSize: 13, color: "#64748b" }}>Sprint 1 SJT (Mar) · Sprint 2 QR (Apr) · Sprint 3 SVC (May)</p>
         </div>
         <button onClick={handleExport} disabled={exporting}
           style={{ background: "#1e293b", border: "1px solid #334155", color: "#94a3b8", borderRadius: 8, padding: "8px 16px", fontSize: 12, fontWeight: 600, cursor: exporting ? "wait" : "pointer", display: "flex", alignItems: "center", gap: 6, transition: "all 0.15s", opacity: exporting ? 0.6 : 1 }}>

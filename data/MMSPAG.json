@@ -1,14 +1,5 @@
 [
   {
-    "key": "MMSPAG-3",
-    "summary": "Remove obsolete features",
-    "start": "2026-03-11",
-    "end": "2026-03-13",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
     "key": "MMSPAG-2",
     "summary": "Replace RTS references with MMSP/NS01",
     "start": "2026-03-11",
@@ -23,15 +14,6 @@
     "start": "2026-03-11",
     "end": "2026-03-13",
     "status": "Done",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-66",
-    "summary": "Replace audio module from RTS project with the one from the new Manila POC project",
-    "start": "2026-03-11",
-    "end": "2026-03-31",
-    "status": "In Progress",
     "sprint": 1,
     "assignee": "Irvin Libres"
   },
@@ -72,15 +54,6 @@
     "assignee": "Irvin Libres"
   },
   {
-    "key": "MMSPAG-71",
-    "summary": "Integrate GateController into HardwareManager — wire mode changes, passage flow, and alarm callbacks",
-    "start": "2026-03-11",
-    "end": "2026-03-31",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
     "key": "MMSPAG-72",
     "summary": "Update plc test application",
     "start": "2026-03-11",
@@ -95,15 +68,6 @@
     "start": "2026-03-11",
     "end": "2026-03-31",
     "status": "Done",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-74",
-    "summary": "Integration testing — verify PLC command/event communication end-to-end with hardware",
-    "start": "2026-03-11",
-    "end": "2026-03-31",
-    "status": "To Do",
     "sprint": 1,
     "assignee": "Irvin Libres"
   },
@@ -180,92 +144,20 @@
     "assignee": "Irvin Libres"
   },
   {
-    "key": "MMSPAG-83",
-    "summary": "Implement commErrorHandler() override — handle TCM communication errors in application",
+    "key": "MMSPAG-106",
+    "summary": "MSIUtils",
     "start": "2026-03-11",
     "end": "2026-03-31",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Irvin Libres"
   },
   {
-    "key": "MMSPAG-84",
-    "summary": "Implement errorDetected() override — map TCM errors to device status in application",
+    "key": "MMSPAG-108",
+    "summary": "JSON",
     "start": "2026-03-11",
     "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-85",
-    "summary": "Implement magazineLevelChanged() override — notify system when magazine is near full or full",
-    "start": "2026-03-11",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-86",
-    "summary": "Implement magazineReplaced() override — handle new magazine installation in application",
-    "start": "2026-03-11",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-87",
-    "summary": "Handle handleCmdFailure() — define retry or recovery behavior on command failure",
-    "start": "2026-03-11",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-88",
-    "summary": "Integrate Tcm into HardwareManager — instantiate, init, wire event handlers to system status",
-    "start": "2026-03-11",
-    "end": "2026-03-31",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-89",
-    "summary": "Update unit tests to cover event handler overrides and passage flow integration",
-    "start": "2026-03-11",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-90",
-    "summary": "Integration testing — verify TCM command/event communication end-to-end with hardware",
-    "start": "2026-03-11",
-    "end": "2026-03-31",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-91",
-    "summary": "Update audio test application",
-    "start": "2026-03-11",
-    "end": "2026-03-31",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-5",
-    "summary": "Implement PLC hardware control",
-    "start": "2026-03-13",
-    "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Irvin Libres"
   },
@@ -274,7 +166,7 @@
     "summary": "Configure AG hardware settings",
     "start": "2026-03-13",
     "end": "2026-03-17",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 1,
     "assignee": "Irvin Libres"
   },
@@ -297,92 +189,11 @@
     "assignee": "Irvin Libres"
   },
   {
-    "key": "MMSPAG-6",
-    "summary": "Implement Card Transport hardware control",
-    "start": "2026-03-17",
-    "end": "2026-03-20",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
     "key": "MMSPAG-8",
     "summary": "Implement UPS hardware control",
     "start": "2026-03-17",
     "end": "2026-03-20",
     "status": "Done",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-4",
-    "summary": "Integrate new components into application",
-    "start": "2026-03-20",
-    "end": "2026-03-24",
-    "status": "In Progress",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-13",
-    "summary": "Implement Transactions handling module",
-    "start": "2026-03-20",
-    "end": "2026-03-24",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-9",
-    "summary": "Implement CSC Reader without SAM Manager",
-    "start": "2026-03-20",
-    "end": "2026-03-24",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-16",
-    "summary": "Implement SJT ticket validation",
-    "start": "2026-03-24",
-    "end": "2026-03-27",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-18",
-    "summary": "Implement In-Service operating mode",
-    "start": "2026-03-24",
-    "end": "2026-03-27",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-19",
-    "summary": "Configure Gate Direction options",
-    "start": "2026-03-24",
-    "end": "2026-03-27",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-20",
-    "summary": "Configure Aisle Modes",
-    "start": "2026-03-24",
-    "end": "2026-03-27",
-    "status": "To Do",
-    "sprint": 1,
-    "assignee": "Irvin Libres"
-  },
-  {
-    "key": "MMSPAG-27",
-    "summary": "Implement Parameter Management system",
-    "start": "2026-03-27",
-    "end": "2026-03-31",
-    "status": "To Do",
     "sprint": 1,
     "assignee": "Irvin Libres"
   },
@@ -423,67 +234,127 @@
     "assignee": "Nathaniel Pereira"
   },
   {
+    "key": "MMSPAG-3",
+    "summary": "Remove obsolete features",
+    "start": "2026-03-11",
+    "end": "2026-03-13",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-5",
+    "summary": "Implement PLC hardware control",
+    "start": "2026-03-13",
+    "end": "2026-03-17",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-6",
+    "summary": "Implement Card Transport hardware control",
+    "start": "2026-03-17",
+    "end": "2026-03-20",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-4",
+    "summary": "Integrate new components into application",
+    "start": "2026-03-20",
+    "end": "2026-03-24",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-13",
+    "summary": "Implement Transactions handling module",
+    "start": "2026-03-20",
+    "end": "2026-03-24",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-9",
+    "summary": "Implement CSC Reader without SAM Manager",
+    "start": "2026-03-20",
+    "end": "2026-03-24",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-16",
+    "summary": "Implement SJT ticket validation",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-18",
+    "summary": "Implement In-Service operating mode",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-19",
+    "summary": "Configure Gate Direction options",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-20",
+    "summary": "Configure Aisle Modes",
+    "start": "2026-03-24",
+    "end": "2026-03-27",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-27",
+    "summary": "Implement Parameter Management system",
+    "start": "2026-03-27",
+    "end": "2026-03-31",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
     "key": "MMSPAG-42",
     "summary": "Design and implement Usage screens",
     "start": "2026-03-27",
     "end": "2026-03-31",
     "status": "In Progress",
-    "sprint": 1,
+    "sprint": 2,
     "assignee": "Nathaniel Pereira"
   },
   {
-    "key": "MMSPAG-15",
-    "summary": "Implement CSC ticket validation",
+    "key": "MMSPAG-10",
+    "summary": "Implement QR Reader Interface",
     "start": "2026-04-01",
-    "end": "2026-04-08",
-    "status": "To Do",
-    "sprint": 2
+    "end": "2026-05-08",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
   },
   {
-    "key": "MMSPAG-23",
-    "summary": "Implement Out-Of-Service mode",
+    "key": "MMSPAG-17",
+    "summary": "Implement QR ticket validation",
     "start": "2026-04-01",
-    "end": "2026-04-08",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPAG-24",
-    "summary": "Implement Maintenance mode",
-    "start": "2026-04-01",
-    "end": "2026-04-15",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPAG-25",
-    "summary": "Implement Closed mode",
-    "start": "2026-04-01",
-    "end": "2026-04-15",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPAG-26",
-    "summary": "Implement Emergency mode",
-    "start": "2026-04-01",
-    "end": "2026-04-22",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPAG-29",
-    "summary": "Implement Set Service State command",
-    "start": "2026-04-01",
-    "end": "2026-04-22",
-    "status": "To Do",
-    "sprint": 2
-  },
-  {
-    "key": "MMSPAG-30",
-    "summary": "Implement Set Direction command",
-    "start": "2026-04-01",
-    "end": "2026-04-22",
+    "end": "2026-05-08",
     "status": "To Do",
     "sprint": 2
   },
@@ -491,69 +362,332 @@
     "key": "MMSPAG-31",
     "summary": "Implement Set Aisle Mode command",
     "start": "2026-04-01",
+    "end": "2026-04-07",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-38",
+    "summary": "Implement Maintenance Menu Status",
+    "start": "2026-04-01",
+    "end": "2026-05-15",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-39",
+    "summary": "Implement Maintenance Menu Diagnostics",
+    "start": "2026-04-01",
+    "end": "2026-05-15",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-40",
+    "summary": "Implement Maintenance Menu Configuration",
+    "start": "2026-04-01",
+    "end": "2026-05-22",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-41",
+    "summary": "Design and implement Operating mode screens",
+    "start": "2026-04-01",
+    "end": "2026-05-22",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-43",
+    "summary": "Design and implement Maintenance screens",
+    "start": "2026-04-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-44",
+    "summary": "Implement String Translations",
+    "start": "2026-04-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-66",
+    "summary": "Replace audio module from RTS project with the one from the new Manila POC project",
+    "start": "2026-04-01",
+    "end": "2026-04-07",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-71",
+    "summary": "Integrate GateController into HardwareManager — wire mode changes, passage flow, and alarm callbacks",
+    "start": "2026-04-01",
+    "end": "2026-04-10",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-83",
+    "summary": "Implement commErrorHandler() override — handle TCM communication errors in application",
+    "start": "2026-04-01",
+    "end": "2026-04-07",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-84",
+    "summary": "Implement errorDetected() override — map TCM errors to device status in application",
+    "start": "2026-04-01",
+    "end": "2026-04-07",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-91",
+    "summary": "Update audio test application",
+    "start": "2026-04-01",
+    "end": "2026-04-07",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-104",
+    "summary": "Reader",
+    "start": "2026-04-01",
+    "end": "2026-04-10",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-85",
+    "summary": "Implement magazineLevelChanged() override — notify system when magazine is near full or full",
+    "start": "2026-04-03",
+    "end": "2026-04-09",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-86",
+    "summary": "Implement magazineReplaced() override — handle new magazine installation in application",
+    "start": "2026-04-03",
+    "end": "2026-04-09",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-93",
+    "summary": "ARM",
+    "start": "2026-04-03",
+    "end": "2026-04-10",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-87",
+    "summary": "Handle handleCmdFailure() — define retry or recovery behavior on command failure",
+    "start": "2026-04-05",
+    "end": "2026-04-11",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-94",
+    "summary": "SJT BR",
+    "start": "2026-04-05",
+    "end": "2026-04-12",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-88",
+    "summary": "Integrate Tcm into HardwareManager — instantiate, init, wire event handlers to system status",
+    "start": "2026-04-07",
+    "end": "2026-04-14",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-95",
+    "summary": "SVC BR",
+    "start": "2026-04-07",
+    "end": "2026-04-14",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-96",
+    "summary": "QR BR",
+    "start": "2026-04-09",
+    "end": "2026-04-16",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-89",
+    "summary": "Update unit tests to cover event handler overrides and passage flow integration",
+    "start": "2026-04-10",
+    "end": "2026-04-17",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-97",
+    "summary": "EMV BR",
+    "start": "2026-04-11",
+    "end": "2026-04-18",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-98",
+    "summary": "MDMClient",
+    "start": "2026-04-13",
+    "end": "2026-04-20",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-74",
+    "summary": "Integration testing — verify PLC command/event communication end-to-end with hardware",
+    "start": "2026-04-14",
+    "end": "2026-04-21",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-90",
+    "summary": "Integration testing — verify TCM command/event communication end-to-end with hardware",
+    "start": "2026-04-14",
+    "end": "2026-04-21",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
+  },
+  {
+    "key": "MMSPAG-99",
+    "summary": "PAR",
+    "start": "2026-04-15",
+    "end": "2026-04-22",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-100",
+    "summary": "MSD",
+    "start": "2026-04-17",
+    "end": "2026-04-24",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-101",
+    "summary": "PRMClient",
+    "start": "2026-04-19",
+    "end": "2026-04-26",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-102",
+    "summary": "QRDecoder",
+    "start": "2026-04-21",
+    "end": "2026-04-28",
+    "status": "To Do",
+    "sprint": 2
+  },
+  {
+    "key": "MMSPAG-103",
+    "summary": "QRWebClient",
+    "start": "2026-04-23",
     "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2
   },
   {
-    "key": "MMSPAG-10",
-    "summary": "Implement QR Reader Interface",
-    "start": "2026-05-01",
-    "end": "2026-05-08",
-    "status": "To Do",
-    "sprint": 3
+    "key": "MMSPAG-105",
+    "summary": "MqttClient",
+    "start": "2026-04-25",
+    "end": "2026-04-30",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
   },
   {
-    "key": "MMSPAG-17",
-    "summary": "Implement QR ticket validation",
-    "start": "2026-05-01",
-    "end": "2026-05-08",
-    "status": "To Do",
-    "sprint": 3
+    "key": "MMSPAG-107",
+    "summary": "Mosquitto",
+    "start": "2026-04-25",
+    "end": "2026-04-30",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "Irvin Libres"
   },
   {
-    "key": "MMSPAG-38",
-    "summary": "Implement Maintenance Menu Status",
-    "start": "2026-05-01",
-    "end": "2026-05-15",
-    "status": "To Do",
-    "sprint": 3
-  },
-  {
-    "key": "MMSPAG-39",
-    "summary": "Implement Maintenance Menu Diagnostics",
-    "start": "2026-05-01",
-    "end": "2026-05-15",
-    "status": "To Do",
-    "sprint": 3
-  },
-  {
-    "key": "MMSPAG-40",
-    "summary": "Implement Maintenance Menu Configuration",
-    "start": "2026-05-01",
-    "end": "2026-05-22",
-    "status": "To Do",
-    "sprint": 3
-  },
-  {
-    "key": "MMSPAG-41",
-    "summary": "Design and implement Operating mode screens",
-    "start": "2026-05-01",
-    "end": "2026-05-22",
-    "status": "To Do",
-    "sprint": 3
-  },
-  {
-    "key": "MMSPAG-43",
-    "summary": "Design and implement Maintenance screens",
+    "key": "MMSPAG-15",
+    "summary": "Implement CSC ticket validation",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
     "sprint": 3
   },
   {
-    "key": "MMSPAG-44",
-    "summary": "Implement String Translations",
+    "key": "MMSPAG-23",
+    "summary": "Implement Out-Of-Service mode",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPAG-24",
+    "summary": "Implement Maintenance mode",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPAG-25",
+    "summary": "Implement Closed mode",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPAG-26",
+    "summary": "Implement Emergency mode",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPAG-29",
+    "summary": "Implement Set Service State command",
+    "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3
+  },
+  {
+    "key": "MMSPAG-30",
+    "summary": "Implement Set Direction command",
     "start": "2026-05-01",
     "end": "2026-05-29",
     "status": "To Do",
