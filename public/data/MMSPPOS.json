@@ -288,22 +288,49 @@
     "assignee": "christopher_LEE"
   },
   {
-    "key": "MMSPPOS-8",
-    "summary": "Components Integration - BRQR",
-    "start": "2026-04-01",
-    "end": "2026-04-07",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
     "key": "MMSPPOS-14",
     "summary": "Hardware Support - QR Reader",
     "start": "2026-04-01",
     "end": "2026-04-07",
     "status": "To Do",
     "sprint": 2,
+    "assignee": "christopher_LEE"
+  },
+  {
+    "key": "MMSPPOS-186",
+    "summary": "SVC Card Detail Screen",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "Done",
+    "sprint": 2,
     "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-8",
+    "summary": "Components Integration - BRQR",
+    "start": "2026-04-01",
+    "end": "2026-04-07",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-184",
+    "summary": "POS Status",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "christopher_LEE"
+  },
+  {
+    "key": "MMSPPOS-185",
+    "summary": "Initial Float and Inventory UI",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "christopher_LEE"
   },
   {
     "key": "MMSPPOS-35",
@@ -319,7 +346,7 @@
     "summary": "QR Ticket Analysis UI Design",
     "start": "2026-04-03",
     "end": "2026-04-09",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
@@ -328,7 +355,7 @@
     "summary": "QR Ticket Analysis Processing, transaction generation, AR update",
     "start": "2026-04-05",
     "end": "2026-04-12",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
@@ -337,7 +364,7 @@
     "summary": "QR Ticket Analysis PDU Display",
     "start": "2026-04-07",
     "end": "2026-04-12",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
@@ -346,7 +373,7 @@
     "summary": "QR Ticket Sale UI Design",
     "start": "2026-04-07",
     "end": "2026-04-14",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
@@ -355,7 +382,7 @@
     "summary": "QR Ticket Sale Processing, transaction generation, AR update",
     "start": "2026-04-09",
     "end": "2026-04-16",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
@@ -364,7 +391,7 @@
     "summary": "QR Ticket Sale Receipt",
     "start": "2026-04-11",
     "end": "2026-04-17",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
@@ -373,7 +400,7 @@
     "summary": "QR Ticket Sale PDU Display",
     "start": "2026-04-11",
     "end": "2026-04-17",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
@@ -382,7 +409,7 @@
     "summary": "QR Ticket Upgrade UI Design",
     "start": "2026-04-13",
     "end": "2026-04-19",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
@@ -391,16 +418,7 @@
     "summary": "QR Ticket Upgrade Processing, transaction generation, AR update",
     "start": "2026-04-15",
     "end": "2026-04-21",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Jonalyn Salvador"
-  },
-  {
-    "key": "MMSPPOS-76",
-    "summary": "QR Ticket Upgrade Receipt",
-    "start": "2026-04-17",
-    "end": "2026-04-22",
-    "status": "To Do",
+    "status": "In Progress",
     "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },
@@ -409,7 +427,16 @@
     "summary": "QR Ticket UpgradePDU Display",
     "start": "2026-04-17",
     "end": "2026-04-22",
-    "status": "To Do",
+    "status": "In Progress",
+    "sprint": 2,
+    "assignee": "Jonalyn Salvador"
+  },
+  {
+    "key": "MMSPPOS-76",
+    "summary": "QR Ticket Upgrade Receipt",
+    "start": "2026-04-17",
+    "end": "2026-04-22",
+    "status": "In Progress",
     "sprint": 2,
     "assignee": "Jonalyn Salvador"
   },

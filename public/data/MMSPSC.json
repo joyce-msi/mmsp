@@ -83,9 +83,9 @@
   {
     "key": "MMSPSC-15",
     "summary": "Status Monitoring",
-    "start": "2026-03-24",
-    "end": "2026-04-10",
-    "status": "In Progress",
+    "start": "2026-04-01",
+    "end": "2026-04-14",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Madhavi Karusala"
   },
@@ -99,11 +99,11 @@
     "assignee": "Madhavi Karusala"
   },
   {
-    "key": "MMSPSC-19",
-    "summary": "Reports Feature",
-    "start": "2026-04-03",
-    "end": "2026-04-12",
-    "status": "To Do",
+    "key": "MMSPSC-37",
+    "summary": "Integration Testing",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "In Progress",
     "sprint": 2,
     "assignee": "Madhavi Karusala"
   },
@@ -112,7 +112,7 @@
     "summary": "Summary Status",
     "start": "2026-04-05",
     "end": "2026-04-14",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Madhavi Karusala"
   },
@@ -121,7 +121,7 @@
     "summary": "Send Command",
     "start": "2026-04-07",
     "end": "2026-04-16",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Madhavi Karusala"
   },
@@ -130,7 +130,7 @@
     "summary": "Device Events",
     "start": "2026-04-10",
     "end": "2026-04-19",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "Madhavi Karusala"
   },
@@ -139,16 +139,7 @@
     "summary": "Transaction History",
     "start": "2026-04-13",
     "end": "2026-04-22",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "Madhavi Karusala"
-  },
-  {
-    "key": "MMSPSC-28",
-    "summary": "Traffic Info",
-    "start": "2026-04-16",
-    "end": "2026-04-25",
-    "status": "To Do",
+    "status": "In Progress",
     "sprint": 2,
     "assignee": "Madhavi Karusala"
   },
@@ -201,6 +192,24 @@
     "key": "MMSPSC-18",
     "summary": "Commands Handling",
     "start": "2026-05-01",
+    "end": "2026-05-29",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-28",
+    "summary": "Traffic Info",
+    "start": "2026-05-18",
+    "end": "2026-05-22",
+    "status": "To Do",
+    "sprint": 3,
+    "assignee": "Madhavi Karusala"
+  },
+  {
+    "key": "MMSPSC-19",
+    "summary": "Reports Feature",
+    "start": "2026-05-25",
     "end": "2026-05-29",
     "status": "To Do",
     "sprint": 3,

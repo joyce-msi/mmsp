@@ -180,56 +180,11 @@
     "assignee": "rui_hui_TOH"
   },
   {
-    "key": "MMSPTVM-28",
-    "summary": "SJT Ticket information query",
-    "start": "2026-03-17",
-    "end": "2026-03-24",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "rui_hui_TOH"
-  },
-  {
-    "key": "MMSPTVM-8",
-    "summary": "Reader component development",
-    "start": "2026-04-01",
-    "end": "2026-04-14",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "mingjie_LIU"
-  },
-  {
-    "key": "MMSPTVM-14",
-    "summary": "Reader Driver",
-    "start": "2026-04-01",
-    "end": "2026-04-10",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "mingjie_LIU"
-  },
-  {
     "key": "MMSPTVM-13",
     "summary": "QR Scanner Driver",
     "start": "2026-04-01",
     "end": "2026-04-10",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "rui_hui_TOH"
-  },
-  {
-    "key": "MMSPTVM-114",
-    "summary": "Reader Component Integration",
-    "start": "2026-04-01",
-    "end": "2026-04-14",
-    "status": "In Progress",
-    "sprint": 2,
-    "assignee": "rui_hui_TOH"
-  },
-  {
-    "key": "MMSPTVM-115",
-    "summary": "Ticket Issue handling",
-    "start": "2026-04-01",
-    "end": "2026-04-14",
-    "status": "In Progress",
+    "status": "Done",
     "sprint": 2,
     "assignee": "rui_hui_TOH"
   },
@@ -243,11 +198,74 @@
     "assignee": "rui_hui_TOH"
   },
   {
+    "key": "MMSPTVM-8",
+    "summary": "SJT Reader component development",
+    "start": "2026-04-01",
+    "end": "2026-04-14",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-14",
+    "summary": "Reader Driver",
+    "start": "2026-04-01",
+    "end": "2026-04-10",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-114",
+    "summary": "Reader Component Integration",
+    "start": "2026-04-01",
+    "end": "2026-04-14",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-115",
+    "summary": "Ticket Issue handling",
+    "start": "2026-04-01",
+    "end": "2026-04-14",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-118",
+    "summary": "QR Reader Driver integration",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
     "key": "MMSPTVM-117",
     "summary": "SJT BR integration",
     "start": "2026-04-01",
     "end": "2026-04-14",
-    "status": "In Progress",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-26",
+    "summary": "SJT Events & Transactions",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-48",
+    "summary": "QR Tickets Events & Transactions",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "status": "To Do",
     "sprint": 2,
     "assignee": "rui_hui_TOH"
   },
@@ -256,7 +274,7 @@
     "summary": "Login Module",
     "start": "2026-04-07",
     "end": "2026-04-17",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "rui_hui_TOH"
   },
@@ -265,7 +283,7 @@
     "summary": "QR Tickets Module",
     "start": "2026-04-10",
     "end": "2026-04-20",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "mingjie_LIU"
   },
@@ -274,6 +292,15 @@
     "summary": "Login UI design and logic processing",
     "start": "2026-04-10",
     "end": "2026-04-20",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "rui_hui_TOH"
+  },
+  {
+    "key": "MMSPTVM-28",
+    "summary": "SJT Ticket information query",
+    "start": "2026-04-13",
+    "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2,
     "assignee": "rui_hui_TOH"
@@ -283,6 +310,33 @@
     "summary": "QR Tickets UI design and logic processing",
     "start": "2026-04-14",
     "end": "2026-04-24",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "mingjie_LIU"
+  },
+  {
+    "key": "MMSPTVM-119",
+    "summary": "Coin Change",
+    "start": "2026-04-14",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "mingjie_LIU"
+  },
+  {
+    "key": "MMSPTVM-120",
+    "summary": "SVC Reader Component Integration",
+    "start": "2026-04-14",
+    "end": "2026-04-30",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "mingjie_LIU"
+  },
+  {
+    "key": "MMSPTVM-121",
+    "summary": "SC / CCS Integration Testing",
+    "start": "2026-04-14",
+    "end": "2026-04-30",
     "status": "To Do",
     "sprint": 2,
     "assignee": "mingjie_LIU"
@@ -292,7 +346,7 @@
     "summary": "QR Tickets Cash payment handling",
     "start": "2026-04-17",
     "end": "2026-04-27",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "mingjie_LIU"
   },
@@ -301,7 +355,7 @@
     "summary": "QR tickets print",
     "start": "2026-04-21",
     "end": "2026-04-30",
-    "status": "To Do",
+    "status": "Done",
     "sprint": 2,
     "assignee": "rui_hui_TOH"
   },
@@ -310,7 +364,7 @@
     "summary": "QR ticket query",
     "start": "2026-04-24",
     "end": "2026-04-30",
-    "status": "To Do",
+    "status": "In Progress",
     "sprint": 2,
     "assignee": "mingjie_LIU"
   },

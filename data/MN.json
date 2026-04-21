@@ -206,15 +206,6 @@
     "assignee": "Prakash HN"
   },
   {
-    "key": "MN-35",
-    "summary": "Design Enhancement PDMS - sent PDT to Stations (not to ECS)",
-    "start": "2026-03-27",
-    "end": "2026-04-10",
-    "status": "In Progress",
-    "sprint": 2,
-    "assignee": "bhuvaneswari_KOOCHU"
-  },
-  {
     "key": "MN-50",
     "summary": "Design Workshop slides from RTS - for MMSP Reference",
     "start": "2026-03-27",
@@ -222,6 +213,15 @@
     "status": "To Do",
     "sprint": 2,
     "assignee": "priya thota"
+  },
+  {
+    "key": "MN-35",
+    "summary": "Design Enhancement PDMS - sent PDT to Stations (not to ECS)",
+    "start": "2026-03-27",
+    "end": "2026-04-10",
+    "status": "Done",
+    "sprint": 2,
+    "assignee": "bhuvaneswari_KOOCHU"
   },
   {
     "key": "MN-58",
@@ -238,6 +238,42 @@
     "start": "2026-04-01",
     "end": "2026-04-07",
     "status": "Done",
+    "sprint": 2,
+    "assignee": "Henny Chendawan"
+  },
+  {
+    "key": "MN-92",
+    "summary": "CCS - PDMS - Copy Files from PDMS to ECS folder",
+    "start": "2026-04-01",
+    "end": "2026-04-20",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "bhuvaneswari_KOOCHU"
+  },
+  {
+    "key": "MN-95",
+    "summary": "DIT with SC and Devices - Parameters , SJT",
+    "start": "2026-04-01",
+    "end": "2026-04-24",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "bhuvaneswari_KOOCHU"
+  },
+  {
+    "key": "MN-93",
+    "summary": "Enhance CCHS AF to sent the CCHS Parameter File to CCS  MMSP AMQ",
+    "start": "2026-04-01",
+    "end": "2026-04-22",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "Henny Chendawan"
+  },
+  {
+    "key": "MN-94",
+    "summary": "CCHS AF - Parameter Configuration - System Participant , MMSP Stations etc",
+    "start": "2026-04-01",
+    "end": "2026-04-22",
+    "status": "To Do",
     "sprint": 2,
     "assignee": "Henny Chendawan"
   },
@@ -305,15 +341,6 @@
     "assignee": "stevenleeyongwah"
   },
   {
-    "key": "MN-51",
-    "summary": "QR Design Workshop Slides",
-    "start": "2026-04-07",
-    "end": "2026-04-14",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "priya thota"
-  },
-  {
     "key": "MN-7",
     "summary": "QRS - QR Validator - Online",
     "start": "2026-04-09",
@@ -377,15 +404,6 @@
     "assignee": "stevenleeyongwah"
   },
   {
-    "key": "MN-29",
-    "summary": "Job Management - PreEOD, Housekeeping , Partitioning",
-    "start": "2026-04-19",
-    "end": "2026-04-28",
-    "status": "To Do",
-    "sprint": 2,
-    "assignee": "stevenleeyongwah"
-  },
-  {
     "key": "MN-19",
     "summary": "Reports - QR , Recon",
     "start": "2026-04-19",
@@ -393,6 +411,15 @@
     "status": "To Do",
     "sprint": 2,
     "assignee": "Prakash HN"
+  },
+  {
+    "key": "MN-29",
+    "summary": "Job Management - PreEOD, Housekeeping , Partitioning",
+    "start": "2026-04-19",
+    "end": "2026-04-28",
+    "status": "To Do",
+    "sprint": 2,
+    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-36",
@@ -474,15 +501,6 @@
     "status": "To Do",
     "sprint": 3,
     "assignee": "Gu Chao"
-  },
-  {
-    "key": "MN-33",
-    "summary": "Code merge from RTS - Non Functional Performance",
-    "start": "2026-05-01",
-    "end": "2026-05-29",
-    "status": "To Do",
-    "sprint": 3,
-    "assignee": "stevenleeyongwah"
   },
   {
     "key": "MN-88",

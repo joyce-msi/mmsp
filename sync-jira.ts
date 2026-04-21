@@ -171,18 +171,7 @@ async function syncProject(project: ProjectConfig): Promise<void> {
     console.log(`  Sprint ${num}: "${name}"`);
   }
 
-  // Only include issues assigned to a sprint
-  const sprintIssues = issues.filter(i => {
-    const sprints = i.fields.customfield_10006;
-    return sprints && sprints.length > 0;
-  });
-
-  const backlogCount = issues.length - sprintIssues.length;
-  if (backlogCount > 0) {
-    console.log(`  Skipped ${backlogCount} backlog issues (no sprint assigned)`);
-  }
-
-  const allTasks = sprintIssues.map(i => {
+  const allTasks = issues.map(i => {
     const sprint = extractSprintNumber(i, sprintMap);
     const fallback = sprintDateRanges[sprint] || sprintDateRanges[1];
     const start = i.fields.customfield_11702 || fallback.start;
@@ -200,14 +189,14 @@ async function syncProject(project: ProjectConfig): Promise<void> {
     };
   });
 
-  // Exclude tasks without a valid sprint label mapping
+  // Exclude tasks without a valid sprint (no sprint label and no sprint field)
   const excluded = allTasks.filter(t => t.sprint < 1);
   if (excluded.length > 0) {
-    console.log(`  Skipped ${excluded.length} issues without a sprint label`);
+    console.log(`  Skipped ${excluded.length} backlog issues (no sprint label or sprint field)`);
   }
   const tasks: TaskData[] = allTasks.filter(t => t.sprint >= 1);
 
-  const withoutDates = sprintIssues.filter(i => !i.fields.customfield_11702 || !i.fields.duedate).length;
+  const withoutDates = issues.filter(i => !i.fields.customfield_11702 || !i.fields.duedate).length;
   if (withoutDates > 0) {
     console.log(`  ${withoutDates} tasks without start/due dates — using sprint date range as fallback`);
   }

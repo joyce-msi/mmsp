@@ -75,6 +75,9 @@ function ProjectChart({ project }: { project: ProjectDef }) {
   const [hovered, setHovered] = useState<string | null>(null);
   const [editingKey, setEditingKey] = useState<string | null>(null);
   const [editValue, setEditValue] = useState("");
+  const [editingDateKey, setEditingDateKey] = useState<string | null>(null);
+  const [editDateStart, setEditDateStart] = useState("");
+  const [editDateEnd, setEditDateEnd] = useState("");
   const [saving, setSaving] = useState(false);
   const [saveMsg, setSaveMsg] = useState<{ text: string; ok: boolean } | null>(null);
   const [syncing, setSyncing] = useState(false);
@@ -158,6 +161,19 @@ function ProjectChart({ project }: { project: ProjectDef }) {
     }
     setEditingKey(null);
   }, [editingKey, editValue, updateTask]);
+
+  const startDateEdit = useCallback((key: string, start: string, end: string) => {
+    setEditingDateKey(key);
+    setEditDateStart(start);
+    setEditDateEnd(end);
+  }, []);
+
+  const commitDateEdit = useCallback(() => {
+    if (editingDateKey && editDateStart && editDateEnd) {
+      updateTask(editingDateKey, { start: editDateStart, end: editDateEnd });
+    }
+    setEditingDateKey(null);
+  }, [editingDateKey, editDateStart, editDateEnd, updateTask]);
 
   const saveToJira = useCallback(async () => {
     if (modified.size === 0) return;
@@ -291,7 +307,7 @@ function ProjectChart({ project }: { project: ProjectDef }) {
 
       {modified.size === 0 && (
         <div style={{ fontSize: 11, color: "#475569", marginBottom: 12 }}>
-          Drag bars to move · Drag right edge to resize · Click status dot to cycle · Double-click summary to edit
+          Drag bars to move · Drag right edge to resize · Click status dot to cycle · Double-click summary to edit · Double-click dates to set start/due date
         </div>
       )}
 
@@ -380,18 +396,34 @@ function ProjectChart({ project }: { project: ProjectDef }) {
                         {[toDay("2026-04-01"), toDay("2026-05-01")].map((dd, i) => (
                           <div key={i} style={{ position: "absolute", left: dd * COL_W, top: 0, bottom: 0, width: 1, background: "#334155", opacity: 0.5, zIndex: 1, pointerEvents: "none" }} />
                         ))}
-                        <div onMouseDown={e => handleBarMouseDown(e, task.key, "move")}
+                        <div onMouseDown={e => { if (editingDateKey !== task.key) handleBarMouseDown(e, task.key, "move"); }}
                           style={{
                             position: "absolute", left: startD * COL_W + 1, top: (ROW_H - BAR_H) / 2,
                             width: barWidth, height: BAR_H,
                             background: `linear-gradient(90deg, ${sc2.bar}dd, ${sc2.bar}99)`,
                             borderRadius: 5, display: "flex", alignItems: "center", paddingLeft: 6,
                             boxShadow: isHov ? `0 0 0 1.5px ${sc2.bar}, 0 2px 8px ${sc2.bar}44` : isMod ? `0 0 0 1px #3b82f6` : "none",
-                            transition: "box-shadow 0.15s", zIndex: 3, overflow: "hidden", cursor: "grab", userSelect: "none",
+                            transition: "box-shadow 0.15s", zIndex: 3, overflow: "hidden", cursor: editingDateKey === task.key ? "default" : "grab", userSelect: "none",
                           }}>
-                          <span style={{ fontSize: 9, color: "#fff", fontWeight: 600, whiteSpace: "nowrap", opacity: 0.9, pointerEvents: "none" }}>
-                            {fmt(task.start)} – {fmt(task.end)}
-                          </span>
+                          {editingDateKey === task.key ? (
+                            <div style={{ display: "flex", alignItems: "center", gap: 4, zIndex: 10 }} onClick={e => e.stopPropagation()} onMouseDown={e => e.stopPropagation()}>
+                              <input type="date" value={editDateStart} onChange={e => setEditDateStart(e.target.value)}
+                                style={{ fontSize: 9, color: "#fff", background: "rgba(0,0,0,0.4)", border: "1px solid rgba(255,255,255,0.3)", borderRadius: 3, padding: "1px 2px", outline: "none", colorScheme: "dark" }} />
+                              <span style={{ fontSize: 9, color: "#fff" }}>–</span>
+                              <input type="date" value={editDateEnd} onChange={e => setEditDateEnd(e.target.value)}
+                                style={{ fontSize: 9, color: "#fff", background: "rgba(0,0,0,0.4)", border: "1px solid rgba(255,255,255,0.3)", borderRadius: 3, padding: "1px 2px", outline: "none", colorScheme: "dark" }} />
+                              <button onClick={commitDateEdit}
+                                style={{ fontSize: 9, color: "#fff", background: "#22c55e", border: "none", borderRadius: 3, padding: "2px 6px", cursor: "pointer", fontWeight: 700 }}>✓</button>
+                              <button onClick={() => setEditingDateKey(null)}
+                                style={{ fontSize: 9, color: "#fff", background: "#ef4444", border: "none", borderRadius: 3, padding: "2px 6px", cursor: "pointer", fontWeight: 700 }}>✕</button>
+                            </div>
+                          ) : (
+                            <span onDoubleClick={e => { e.stopPropagation(); startDateEdit(task.key, task.start, task.end); }}
+                              style={{ fontSize: 9, color: "#fff", fontWeight: 600, whiteSpace: "nowrap", opacity: 0.9, cursor: "text" }}
+                              title="Double-click to edit dates">
+                              {fmt(task.start)} – {fmt(task.end)}
+                            </span>
+                          )}
                           <div onMouseDown={e => handleBarMouseDown(e, task.key, "resize-end")}
                             style={{ position: "absolute", right: 0, top: 0, width: 6, height: "100%", cursor: "ew-resize", borderRadius: "0 5px 5px 0", background: isHov ? "rgba(255,255,255,0.2)" : "transparent" }} />
                         </div>
